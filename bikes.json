@@ -1,12 +1,13 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-09T06:00:00Z",
+  "updated_at": "2026-10-09T06:10:57.192Z",
   "source": "Facebook Marketplace",
   "search_area": "Vancouver, British Columbia, Canada",
   "currency": "CAD",
   "notes": [
     "Prices and descriptions were visible when checked; seller availability and bicycle condition have not been independently verified.",
-    "Frame size and condition should be confirmed with each seller before purchase."
+    "Frame size and condition should be confirmed with each seller before purchase.",
+    "image_url values point to Facebook CDN images and may expire; refresh them from the listing when needed."
   ],
   "listings": [
     {
@@ -19,7 +20,8 @@
       "frame_size": null,
       "seller_condition": "used - good",
       "seller_notes": "Lightly used; stored indoors; new tires; 21 gears.",
-      "availability": "unverified"
+      "availability": "unverified",
+      "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/842556170_1387456620042031_1634619850426751746_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=92e707&_nc_ohc=l64wyA0XQooQ7kNvwEca3ir&_nc_oc=Adro1bJGctsl_tAfjD3UUgckyfKeN0vYnwn8Ok1Iogk-DBOYqMIALnwoIP52cWu6QkM&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=viXambGlTg_daM0e47qpxg&_nc_ss=7b2a8&oh=00_AQNPT1s0Sv5zYuaK72dHFz6fQ1BMbDiSMa8uB9beqUzOaw&oe=6ACE6E37"
     },
     {
       "id": "2022213371792842",
@@ -31,7 +33,8 @@
       "frame_size": null,
       "seller_condition": "used - good",
       "seller_notes": "Single speed; front and rear brakes; rack and full fenders; seller says it rides smoothly.",
-      "availability": "unverified"
+      "availability": "unverified",
+      "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/821637956_2120866035187220_415697188179951311_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&ccb=1-7&_nc_sid=92e707&_nc_ohc=zAIFLNkgo9UQ7kNvwFDnwWK&_nc_oc=Adq3PKkNS0XNKPN4mRNAP2ExUQlTXUkfqCyKXXDOVbrx2TndLJ8x7kYk8py6-KtdXyg&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=ObSS3BxVvVCOehUnVmxrLw&_nc_ss=7b2a8&oh=00_AQNde2oWZBkWnYW7Ot1qKw2TZ9BxP1w8Jh-0lxVnOErFWg&oe=6ACE73F3"
     },
     {
       "id": "1637234254694511",
@@ -43,7 +46,8 @@
       "frame_size": null,
       "seller_condition": "used - good",
       "seller_notes": "26-inch wheels; steel frame; seller says it was tuned up and stored indoors.",
-      "availability": "unverified"
+      "availability": "unverified",
+      "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/841386758_1117993830689525_8917249239213700967_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=107&ccb=1-7&_nc_sid=92e707&_nc_ohc=g11f38AtzFgQ7kNvwE8lM6t&_nc_oc=AdrJ-dKgJR1Ig5yr9IGxs-pozpBSQ-9By2jQkEs_gqrUGQdbWKu4-ID6Qz6nLmtgO3Y&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=LNlIt0w_eA-ki9yLkU_t_w&_nc_ss=7b2a8&oh=00_AQMXdyjyWmVXtaI4LbULmJpbATMryr1F98ZKbPdGnFPV-g&oe=6ACE241C"
     }
   ]
 }
