@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-10-09T06:00:00Z",
+  "source": "Facebook Marketplace",
+  "search_area": "Vancouver, British Columbia, Canada",
+  "currency": "CAD",
+  "notes": [
+    "Prices and descriptions were visible when checked; seller availability and bicycle condition have not been independently verified.",
+    "Frame size and condition should be confirmed with each seller before purchase."
+  ],
+  "listings": [
+    {
+      "id": "1461904599138520",
+      "title": "Classic Bicycle- Men’s Specialized Crossroads",
+      "url": "https://www.facebook.com/marketplace/item/1461904599138520/",
+      "price": 100,
+      "location": "Vancouver, BC",
+      "type": "hybrid",
+      "frame_size": null,
+      "seller_condition": "used - good",
+      "seller_notes": "Lightly used; stored indoors; new tires; 21 gears.",
+      "availability": "unverified"
+    },
+    {
+      "id": "2022213371792842",
+      "title": "Raleigh Single Speed Commuter Bike - Rack & Fenders - Ready to Ride",
+      "url": "https://www.facebook.com/marketplace/item/2022213371792842/",
+      "price": 90,
+      "location": "Vancouver, BC",
+      "type": "commuter",
+      "frame_size": null,
+      "seller_condition": "used - good",
+      "seller_notes": "Single speed; front and rear brakes; rack and full fenders; seller says it rides smoothly.",
+      "availability": "unverified"
+    },
+    {
+      "id": "1637234254694511",
+      "title": "Vintage North Country Mountain Bike / Commuter – Ready to Ride!",
+      "url": "https://www.facebook.com/marketplace/item/1637234254694511/",
+      "price": 100,
+      "location": "Vancouver, BC",
+      "type": "mountain / commuter",
+      "frame_size": null,
+      "seller_condition": "used - good",
+      "seller_notes": "26-inch wheels; steel frame; seller says it was tuned up and stored indoors.",
+      "availability": "unverified"
+    }
+  ]
+}
