@@ -1,15 +1,42 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-09T06:10:57.192Z",
+  "updated_at": "2026-10-09T12:11:32Z",
   "source": "Facebook Marketplace",
   "search_area": "Vancouver, British Columbia, Canada",
   "currency": "CAD",
   "notes": [
     "Prices and descriptions were visible when checked; seller availability and bicycle condition have not been independently verified.",
     "Frame size and condition should be confirmed with each seller before purchase.",
-    "image_url values point to Facebook CDN images and may expire; refresh them from the listing when needed."
+    "image_url values point to Facebook CDN images and may expire; refresh them from the listing when needed.",
+    "Listings were visible on October 9, 2026; availability still requires seller confirmation."
   ],
   "listings": [
+    {
+      "id": "1148545677499541",
+      "title": "APOLLO 18 SPEED CONVERTED ROAD BIKE (LARGE FRAME)",
+      "url": "https://www.facebook.com/marketplace/item/1148545677499541/",
+      "price": 120,
+      "location": "Vancouver, BC",
+      "type": "road / commuter",
+      "frame_size": "25-inch large (seller-stated)",
+      "seller_condition": "used - like new",
+      "seller_notes": "18-speed converted road bike; 27-inch wheels and new tires. Seller says it suits riders around 6 feet; test fit before purchase.",
+      "availability": "unverified",
+      "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/839334442_1476026211169092_1028532198140452096_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=102&ccb=1-7&_nc_sid=92e707&_nc_ohc=QbfiDsx7DeMQ7kNvwGz0E0a&_nc_oc=Adq28X_sW0xt9Ia7eaLoNrB81Dr2FkeCHgOgOzDCbsYxYShY_X-S1MhQNXez7UVfQtg&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=vgG4jI5aKAmDbd5p28GAMw&_nc_ss=7b2a8&oh=00_AQPOUBtLPJddOtsQq7ljijlqCsRmUOMwfWZU_KYjMoy_Pg&oe=6ACEC071"
+    },
+    {
+      "id": "1798621934476805",
+      "title": "Vintage Road King 10-Speed Road Bike – Great City Commuter / Cruiser",
+      "url": "https://www.facebook.com/marketplace/item/1798621934476805/",
+      "price": 70,
+      "location": "Burnaby, BC",
+      "type": "road",
+      "frame_size": null,
+      "seller_condition": "used - like new",
+      "seller_notes": "10-speed steel road bike with drop and top bar brake levers. Seller says it rides fine but is sold as-is; confirm fit and brakes before purchase.",
+      "availability": "unverified",
+      "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/813623840_1971484860138407_3309676654027996712_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&ccb=1-7&_nc_sid=92e707&_nc_ohc=xur9CAr-58EQ7kNvwHbTudh&_nc_oc=AdqYVd35nTOlQpydjvZExxRF_Spf3VhYEij-ywdQzd9wViZOu0ogbPrN27mWLiIs-lA&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=JCWrQBfgT6slIE56Ju3NPg&_nc_ss=7b2a8&oh=00_AQNVDDoMRaBSD-i7H4uj1BPxUJy2Frz3rTMJQNfRGYSBBw&oe=6ACE9DDD"
+    },
     {
       "id": "1461904599138520",
       "title": "Classic Bicycle- Men’s Specialized Crossroads",
