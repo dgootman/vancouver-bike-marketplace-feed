@@ -1,11 +1,11 @@
 schema_version: 3
-updated_at: '2026-10-11T00:30:32Z'
+updated_at: '2026-10-15T16:59:32Z'
 source: Facebook Marketplace
 search_area: Vancouver, British Columbia, Canada
 currency: CAD
 max_price: 200
 max_listings: 100
-listing_count: 90
+listing_count: 66
 notes:
 - Listings are ordered by estimated posting date, then road/gravel/hybrid/commuter/mountain type.
 - date_posted is estimated from relative age shown on Marketplace; null means no posting age was visible.
@@ -13,78 +13,122 @@ notes:
 - Availability and condition require seller confirmation.
 - Facebook CDN image URLs may expire; image_url is null when no product image URL was available.
 listings:
-- id: '2356328418553520'
-  title: Adult bicycle
-  url: https://www.facebook.com/marketplace/item/2356328418553520/
-  make: Norco
-  model: null
-  type: null
-  price: 35
-  location: Delta, BC
+- id: '1456819556334275'
+  title: CCM Delson Men's Hybrid Bike, 700C
+  url: https://www.facebook.com/marketplace/item/1456819556334275/
+  make: CCM
+  model: Delson
+  type: hybrid
+  price: 80
+  location: Vancouver, BC
   source: Facebook Marketplace
-  date_posted: '2026-10-11'
-  date_posted_display: 23 minutes ago
+  date_posted: '2026-10-15'
+  date_posted_display: 12 hours ago
   date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
+  date_verified: '2026-10-15T16:58:02.370Z'
   posting_text: |-
-    Norco bike shifts well, street tires are in good shape; 1 shifter handle is cracked otherwise the bike works well
+    Please note: The brakes require adjustment before use.
+
+    I can deliver within the downtown area.
   seller_condition: used - good
   frame_size: null
   seller_notes: null
   availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/844301908_1583437902936221_6275432916047606237_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=92e707&_nc_ohc=Qy6vtuhGeekQ7kNvwFkUgKn&_nc_oc=AdpBQwwPl6GI6Dc6nC3cd6OiyPtJNsbkV6LZq7gXQu5Ym2TdAHEibxMtO529Fw-IUYE&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=eAokKXnPQI9OQKBijKQ2EQ&_nc_ss=7b2a8&oh=00_AQP6FUvkV3z1sSpyCvKUD1i_CK_xWqZs5zqtoEVQAOp6KQ&oe=6AD093EA
-- id: '1751948415855924'
-  title: Raleigh route bicycle
-  url: https://www.facebook.com/marketplace/item/1751948415855924/
-  make: Raleigh
-  model: Route
-  type: null
+  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/848525812_1435615141230661_4585504357610250265_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=92e707&_nc_ohc=KS_PKMwh8noQ7kNvwGGa9zT&_nc_oc=AdrqZWrgpCy1b9frY5Q0IC8FI8eX4XRzPveImrs8LvMlK8S8MaZngkT5zkT9Es6i8s4&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=Rd988JgqDFFQF8Jl8Z2VjQ&_nc_ss=7b2a8&oh=00_AQNakSf5zeBj0iCix-6bMsh-gfJhgh9s9bNZSEXnGxzwmg&oe=6AD6E52E
+- id: '1821228625831237'
+  title: Supercycle Comfort Bike with Basket, Lock & Pump
+  url: https://www.facebook.com/marketplace/item/1821228625831237/
+  make: Supercycle
+  model: null
+  type: commuter
   price: 100
-  location: Maple Ridge, BC
+  location: Vancouver, BC
   source: Facebook Marketplace
-  date_posted: '2026-10-11'
-  date_posted_display: 27 minutes ago
+  date_posted: '2026-10-15'
+  date_posted_display: 11 hours ago
   date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
+  date_verified: '2026-10-15T16:58:02.370Z'
   posting_text: |-
-    Selling bicycle as im to heavy for it. Bike has a rear flat tire otherwiae in perfect condition.
+    Supercycle Comfort Geometry cruiser in teal, barely used. Fully tuned up last spring and not ridden since.
+
+    Included:
+
+     • Wicker front basket
+     • Water bottle holder
+     • U-lock
+     • Air pump
+
+    Step-through frame and upright seat make it great for commuting, errands or seawall rides.
+
+    Pickup: West End, Vancouver.
+
+    Price: $100 OBO
+    Cash or e-transfer.
   seller_condition: used - like new
   frame_size: null
   seller_notes: null
   availability: unverified
-  image_url: null
-- id: '1134221079554136'
-  title: Vintage Apollo 12 Road Bike
-  url: https://www.facebook.com/marketplace/item/1134221079554136/
-  make: Apollo
-  model: '12'
-  type: road
-  price: 80
+  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/848297977_1637348544469493_6146110091479734084_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=92e707&_nc_ohc=qSkXpq0O3cIQ7kNvwEs5SZ2&_nc_oc=Ado-0Tur2y7Y9il_JguaCRsp_nVZKjw3jbJTog_f4AAAPUfNxAGf9ETc5z-UjyEGzzk&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=zOhPFITGVyjZ44MCK2unHw&_nc_ss=7b2a8&oh=00_AQP7KX7rkdIX2whJ8QKlcLaP30nNyh_jqQcHxS4e8KfSlA&oe=6AD6DDA9
+- id: '29230137563250025'
+  title: Supercycle Nitro Mountain Bike
+  url: https://www.facebook.com/marketplace/item/29230137563250025/
+  make: Supercycle
+  model: Nitro
+  type: mountain
+  price: 70
+  location: Burnaby, BC
+  source: Facebook Marketplace
+  date_posted: '2026-10-15'
+  date_posted_display: 12 hours ago
+  date_posted_is_estimate: true
+  date_verified: '2026-10-15T16:58:02.370Z'
+  posting_text: |-
+    Supercycle Nitro mountain bike in grey and orange. Rides normally, with recently replaced brakes, 27-speed gearing and tires in good condition. Features front suspension, rim brakes, a kickstand and a bottle cage. Used, with visible rust on the chain and chainrings, as shown in the photos. Price: CAD $70. Meetup location: Burnaby.
+  seller_condition: used - good
+  frame_size: null
+  seller_notes: null
+  availability: unverified
+  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/848677753_1095702506376727_8572816869914881559_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=92e707&_nc_ohc=GBgpybL_TkMQ7kNvwHN5w13&_nc_oc=Adruw6uDEnIhr0ZquGRZJUH3SbinKid6C8UlPPZwSeytkSwP4vj3lHyfwRIUdsw6cew&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=hPggXRTsrLiX_Og69dITJg&_nc_ss=7b2a8&oh=00_AQPAEtiAbhFY5cHMb6ZKmzq22CaUF77R3r44aXpAYQ0uXg&oe=6AD6D669
+- id: '3126847847513677'
+  title: Vintage Schwinn Cruiser Bike
+  url: https://www.facebook.com/marketplace/item/3126847847513677/
+  make: Schwinn
+  model: null
+  type: cruiser
+  price: 125
   location: Vancouver, BC
   source: Facebook Marketplace
-  date_posted: '2026-10-10'
-  date_posted_display: a day ago
+  date_posted: '2026-10-15'
+  date_posted_display: 10 hours ago
   date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
+  date_verified: '2026-10-15T16:58:02.362Z'
   posting_text: |-
-    Selling a cute vintage blue Apollo 12 road bike from the 1980s.
-    The frame was manufactured in Japan by Kuwahara (imported by Deeley), known for their classic, long-lasting steel builds.
-
-    • Size: Men's Medium/Large frame
-
-    • Components: Vintage SunTour shifters/derailleurs and Dia-Compe brakes
-
-    • Condition: The bike is currently in working condition, but it is being sold as-is. It has some minor cosmetic rust spots and scratches consistent with its age, and could use a tune-up/basic maintenance to get it running perfectly.
-
-    Perfect as a reliable daily commuter or a fun winter restoration project!
-
-    Pickup in Trout Lake Park area.
-     Feel free to message me with any questions!
+    Vintage blue Schwinn cruiser bike has a step-through steel frame with white accents. This bicycle is equipped with a front-mounted wire basket, full-length fenders, and a chain guard. It has a single-speed drivetrain and a spring-cushioned saddle.
   seller_condition: used - fair
   frame_size: null
   seller_notes: null
   availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/842609323_1099748692914335_1348446886719912803_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=92e707&_nc_ohc=pV6Toyux5wUQ7kNvwGB3V4e&_nc_oc=AdpD5Ut16k20-h7GfRPP5uB4EuWuOeiNOA0s2FtEtre2BQr5C4Wp6u-1cz2MFY8nWy4&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=LXO2tnXSRwfqmHbVHH5TtA&_nc_ss=7b2a8&oh=00_AQOf-j1VZnbizO7Eqry6MhlYKtbW80Ij34GH8tyCq009Yw&oe=6AD0A586
+  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/849617233_1103521259060052_8018575763545671058_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=92e707&_nc_ohc=0HcytG7-ZSIQ7kNvwGFoi3r&_nc_oc=AdqI1twtcj5o7mf_iWWidUX71kmdDuwbcTSh03roly8qYNHh-pXD_lyra7EEHCpkmH0&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=TR-nhltpt44VO4AmaZG4Vw&_nc_ss=7b2a8&oh=00_AQMy3r0CtryMk6Ez_3-zUYZfrYAVB4N5pbWLobfsTlXl7g&oe=6AD6D029
+- id: '1152045927154218'
+  title: Schwinn folding bikes
+  url: https://www.facebook.com/marketplace/item/1152045927154218/
+  make: Schwinn
+  model: null
+  type: folding
+  price: 100
+  location: Vancouver, BC
+  source: Facebook Marketplace
+  date_posted: '2026-10-15'
+  date_posted_display: 13 hours ago
+  date_posted_is_estimate: true
+  date_verified: '2026-10-15T16:58:02.370Z'
+  posting_text: |-
+    Excellent condition
+  seller_condition: used - like new
+  frame_size: null
+  seller_notes: null
+  availability: unverified
+  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/849428702_2564868597270660_2814401937350524296_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=92e707&_nc_ohc=Vy-ejbzcmDAQ7kNvwGj2v5w&_nc_oc=Adpy7-XW3_8NYhXrsHZHIBywAYJfQ3mD_P-YxMRpbA8c-tFYFijj7w1LYPb6PYnreFc&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=GSpZU9Pe3YGuZX-V1wMvyg&_nc_ss=7b2a8&oh=00_AQMcLwQEbRmNktnzYCPdFZPEul00Iy1uEWqmxiBhMqYSlw&oe=6AD6EA88
 - id: '28308406868860228'
   title: Vintage 1985 Norco Monterey Road Bike – Good Condition
   url: https://www.facebook.com/marketplace/item/28308406868860228/
@@ -94,10 +138,10 @@ listings:
   price: 100
   location: Langley Twp, BC
   source: Facebook Marketplace
-  date_posted: '2026-10-10'
-  date_posted_display: 7 hours ago
+  date_posted: '2026-10-11'
+  date_posted_display: 4 days ago
   date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
+  date_verified: '2026-10-15T16:58:02.370Z'
   posting_text: |-
     Selling a classic mid-80s Norco 23”Monterey 12-speed sport road bike. It is in good condition, structurally sound, and ready to ride. Perfect for a daily vintage commuter, campus bike, or weekend cruiser.
     • Frame: Lightweight Tange steel frame (straight, no dents)
@@ -107,51 +151,7 @@ listings:
   frame_size: null
   seller_notes: null
   availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/843224745_1394588426177369_8432762175909501306_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=92e707&_nc_ohc=RVyJ_lBNUv4Q7kNvwGhgnzj&_nc_oc=AdoQDCry9dilQS15btV-Nm90kiItsvDqSrjZA-yhc2mza82_xDQ3RvhnFviWH7WVsi8&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=zlIvjVA4ZVkAZXKjaJEq3A&_nc_ss=7b2a8&oh=00_AQOi4YnfeIT9TzWsqauv6iXn6DkIaQYhVy0FTcxJQpCoiA&oe=6AD0C376
-- id: '2225305708043017'
-  title: Olympia Italia Road Bike
-  url: https://www.facebook.com/marketplace/item/2225305708043017/
-  make: Olympia
-  model: Italia
-  type: road
-  price: 120
-  location: Coquitlam, BC
-  source: Facebook Marketplace
-  date_posted: '2026-10-10'
-  date_posted_display: a day ago
-  date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
-  posting_text: |-
-    Vintage Olympia Italia road bike
-  seller_condition: used - fair
-  frame_size: null
-  seller_notes: null
-  availability: pending
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/840991210_1465043682193065_8994773391833095188_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=106&ccb=1-7&_nc_sid=92e707&_nc_ohc=3ADbSb81fwQQ7kNvwEqNODP&_nc_oc=AdrDRG_OQBSF0WBpe59ch-J19zKhHr2j3XI_ugsPp4Qho4SpQLrR5M0_mtX2XQmeXKk&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=_iiFy22wMO7sDzoMwm603g&_nc_ss=7b2a8&oh=00_AQOCbBfBvhtgQfpuNDGVJ9Fb3eifUMOfzNa7iQDyQbdhPA&oe=6AD090D3
-- id: '1806905053788920'
-  title: SEKINE 23" 12-speed vintage ROAD BIKE
-  url: https://www.facebook.com/marketplace/item/1806905053788920/
-  make: Sekine
-  model: null
-  type: road
-  price: 150
-  location: Vancouver, BC
-  source: Facebook Marketplace
-  date_posted: '2026-10-10'
-  date_posted_display: a day ago
-  date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
-  posting_text: |-
-    Vintage Sekine road bike $150
-    23" steel frame (good for someone about 5'5" - 6'2")
-    Made in Canada
-    good shape - ready to ride
-    downtown - west end
-  seller_condition: used - good
-  frame_size: null
-  seller_notes: null
-  availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/842954343_1082007321124574_3412559734848789583_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=92e707&_nc_ohc=Fwng6ewyI-AQ7kNvwHvkUm_&_nc_oc=AdpHY0adMzouPlv1h0S39gYCSP50gJlaGyJD3WPxyEOiK29JJWVPJtWjjUHY6ECKOaY&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=bAyi4SISnu0EDsxiEgBeMA&_nc_ss=7b2a8&oh=00_AQPRBx6CT7uaQpP4zaxh-hXRp3b2jRyG11hFN8Sje5UtQA&oe=6AD0C012
+  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/843224745_1394588426177369_8432762175909501306_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=92e707&_nc_ohc=8Z5rnKeIyjIQ7kNvwH2r68Z&_nc_oc=AdqZ2kpwky2Rc1Sk8Lq7-9Qkzmh1benXcROLZzrtiCnaTPgSyb2SBP9aUuuSrEYTYfI&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=NI3Ddjr9YNSHa8xjv6E25Q&_nc_ss=7b2a8&oh=00_AQMkUleXNFaCY1Jr3gbmLWSZDTXceZKbhKyOTYh7438euA&oe=6AD6EA76
 - id: '2534682490368976'
   title: Apollo Gran Sport bicycle - 12 speed, from 1978 - good shape
   url: https://www.facebook.com/marketplace/item/2534682490368976/
@@ -161,78 +161,17 @@ listings:
   price: 150
   location: Delta, BC
   source: Facebook Marketplace
-  date_posted: '2026-10-10'
-  date_posted_display: 7 hours ago
+  date_posted: '2026-10-11'
+  date_posted_display: 4 days ago
   date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
+  date_verified: '2026-10-15T16:58:02.370Z'
   posting_text: |-
     Apollo Gran Sport bicycle - 12 speed, 24" frame, 25" x 1" rims, good tires
   seller_condition: used - good
   frame_size: null
   seller_notes: null
   availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/842978251_1402264698227241_2402467395937020487_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=101&ccb=1-7&_nc_sid=92e707&_nc_ohc=-C3j2dQT9uwQ7kNvwHxBwaX&_nc_oc=Adp-mJrtUMKhk0iF4eQPjaom9nQoRiM2JFC8-PZbjOdKRrtI-olo62_EQr5_lASjwCw&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=hrKjnzuj558ZHwJP-YlQgA&_nc_ss=7b2a8&oh=00_AQOCMULzNN6Tkl379auBbW-CCzeQz62mc3rBudU9f-MJaw&oe=6AD0A088
-- id: '954461167730583'
-  title: Vintage PT Pro Tour Road Bike – 23” Frame – 27” Wheels – 10 Speed – Fenders
-  url: https://www.facebook.com/marketplace/item/954461167730583/
-  make: PT
-  model: Pro Tour
-  type: road
-  price: 150
-  location: Vancouver, BC
-  source: Facebook Marketplace
-  date_posted: '2026-10-10'
-  date_posted_display: a day ago
-  date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
-  posting_text: |-
-    Vintage PT Pro Tour road bike with a 23” steel frame and 27” wheels. Classic red finish with silver components, drop handlebars and full fenders. Freshly tuned, fully functional and ready to ride.
-
-    Specifications
-
-    • Brand/Model: PT Pro Tour
-    • Frame size: 23” (58.4 cm)
-    • Frame material: Steel
-    • Wheel size: 27”
-    • Tires: Schwalbe 27 x 1¼”
-    • Drivetrain: 10 speed (2x5)
-    • Front and rear derailleurs
-    • Downtube friction shifters
-    • Easy-grab auxiliary brake levers
-    • Front and rear caliper rim brakes
-    • Drop handlebars with black bar tape
-    • Quill stem
-    • Double chainring crankset
-    • Front and rear full-length fenders
-    • Platform pedals
-    • Red paint with silver detailing
-
-    Condition
-
-    • Freshly tuned and ready to ride
-    • Functionally perfect
-    • Good used condition
-    • Cosmetic paint wear and scratches consistent with age and use
-    • Tires have good tread remaining
-    • Shifts and brakes working properly
-
-    Pickup
-    2629 E Hastings St, Vancouver
-
-    Hours
-    11 AM – 6 PM, 7 days a week
-
-    Cash only + 5% GST.
-    First come, first served.
-    No holds.
-    Prices are fixed.
-
-    Come take it for a test ride. You don’t know what fits until you give it a try.
-  seller_condition: used - good
-  frame_size: null
-  seller_notes: null
-  availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/840233186_1124890413819652_4347271611346313352_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=92e707&_nc_ohc=B5rsU4JPz9YQ7kNvwGQwZws&_nc_oc=Adoe4Dzfvi5UoUGqzBMZpdLajGpg1aMfglEprqQV5XQHGPKocvnEhDqs4phoFPsXH7U&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=BnXzS64ZVIVr9pO53wlllw&_nc_ss=7b2a8&oh=00_AQOQpqjljrIA7XpbeHsAcFRqyWyKjNmAFZgGym7SFUdPFg&oe=6AD09954
+  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/842978251_1402264698227241_2402467395937020487_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=101&ccb=1-7&_nc_sid=92e707&_nc_ohc=F-Knfta0yNIQ7kNvwGQ4J9o&_nc_oc=AdpfzdpawCsXPshKkrXuCCFfDmvTDNbiWyFx3D0uIWIqqxRUly86qDAxDbA_OrK1hvQ&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=Hv3ji_jUDJLTtUzg4HNMcA&_nc_ss=7b2a8&oh=00_AQPnkFLOkyiRZayczUj1KYuWEk_f9g-6aP2L4cF39wUGzA&oe=6AD6C788
 - id: '1753351349293471'
   title: Vintage Nishiki Road Bike / Commuter – $170
   url: https://www.facebook.com/marketplace/item/1753351349293471/
@@ -242,10 +181,10 @@ listings:
   price: 170
   location: Vancouver, BC
   source: Facebook Marketplace
-  date_posted: '2026-10-10'
-  date_posted_display: 49 minutes ago
+  date_posted: '2026-10-11'
+  date_posted_display: 4 days ago
   date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
+  date_verified: '2026-10-15T16:58:02.370Z'
   posting_text: |-
     Selling a classic Nishiki road bike, great for city commuting, casual riding!
 
@@ -255,7 +194,7 @@ listings:
 
     Type: Vintage Road / Commuter Bike
 
-    Frame: Classic steel frame
+    Frame: Classic steel frame. Seat tube and top tube are 23”
 
     Handlebars: Drop bars with dual brake lever setup for easy braking while riding upright or in the drops
 
@@ -274,183 +213,238 @@ listings:
   frame_size: null
   seller_notes: null
   availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/844646274_1650834389762462_1455753390123891487_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=92e707&_nc_ohc=dEhfBbi6tbcQ7kNvwFEGx5a&_nc_oc=AdpjCKsP7bSZCu-G0tmTsYd9_CVGliEDw6l_rV7Z1xhVMmy3mYn8zZ-5ch7r7QelvKQ&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=rH0Mvf4ZH1mfpnmkCtSQhQ&_nc_ss=7b2a8&oh=00_AQOXhcQwmv7J_6l06brDn5RTblgpxoQfWBMiyCr6FxDReQ&oe=6AD0B898
-- id: '4273761622840809'
-  title: Giant Rapid Road Bike
-  url: https://www.facebook.com/marketplace/item/4273761622840809/
-  make: Giant
-  model: Rapid
-  type: road
-  price: 180
-  location: North Vancouver, BC
-  source: Facebook Marketplace
-  date_posted: '2026-10-10'
-  date_posted_display: a day ago
-  date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
-  posting_text: |-
-    Small-sized Giant Rapid road bike has a white, black, and yellow aluminum frame. This bicycle is equipped with Shimano 8-speed shifters and a triple chainring drivetrain. The bike includes a kickstand, a yellow bottle cage, and a Giro helmet. Visible rust is present on the chain, chainrings, and various bolts.
-    North vancover
-  seller_condition: used - fair
-  frame_size: null
-  seller_notes: null
-  availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/841249386_2178726196362084_527645281840454298_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=92e707&_nc_ohc=5aGHYrryhQgQ7kNvwGaQS2W&_nc_oc=AdrsVRl4nM3l67at7Y0RTEIAGBqPkt3-qOO3mEz2b_8RXtpSyi_06L5H9P8dAyCigsQ&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=tw1W_K0ezp-TaX8t7-pFMg&_nc_ss=7b2a8&oh=00_AQOS-ZQfSTn7D8f89uBKkuhmX-mD2RdvQgj68H2aJfDezA&oe=6AD0A6D2
-- id: '1488237869802900'
-  title: Giant Road Bike
-  url: https://www.facebook.com/marketplace/item/1488237869802900/
-  make: Giant
-  model: OCR 3
-  type: road
+  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/844646274_1650834389762462_1455753390123891487_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=92e707&_nc_ohc=-s8_AWQhRpcQ7kNvwHqVaRS&_nc_oc=Adrddb9XwSbhl3illYmcQ8fiu9HZkJGmRPj-86Ev1bw-sG1Xw-eSoJEci4mrLc6Mqis&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=7J0u83vgr4XE3i8DkCWpmw&_nc_ss=7b2a8&oh=00_AQPzM0lj70_3ECnzUfIpyg3_h0gDWspYZk5DNa7Lx7YYSQ&oe=6AD6DF98
+- id: '1697845318623158'
+  title: Vitali Supersport Touring Commuter plus with some quirks
+  url: https://www.facebook.com/marketplace/item/1697845318623158/
+  make: Vitali
+  model: Supersport
+  type: commuter
   price: 200
   location: North Vancouver, BC
   source: Facebook Marketplace
-  date_posted: '2026-10-10'
-  date_posted_display: a day ago
+  date_posted: '2026-10-11'
+  date_posted_display: 4 days ago
   date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
+  date_verified: '2026-10-15T16:58:02.370Z'
   posting_text: |-
-    Giant OCR 3 Road Bike
-    Small frame
+    This is a custom Vitali.
+    It's dirty. Mea culpa!
 
-    • Frame Material: ALUXX 6061 Aluminum (Lightweight & Durable)
-    • Fork: Carbon Composite (Vibration damping)
-    • Drivetrain: Shimano Sora 24-Speed (3x8 Triple Crankset)
-    • Shifters/Levers: Shimano Sora Integrated Brake/Shift Levers
-    • Brakes: Alloy Dual-Pivot Caliper
-    • Wheel Size: 700c Road Wheels
-    • Intended Use: Entry-level road riding, fitness, or commuting
-  seller_condition: used - fair
-  frame_size: null
-  seller_notes: null
-  availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/844438147_4510408695874034_3240143117294171663_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&ccb=1-7&_nc_sid=92e707&_nc_ohc=usxTe9JKKjgQ7kNvwE5WU-z&_nc_oc=Adom8qj8fHzL4Vfy277UnvvwEqMXZG52nEY_Vljouzts9MMKe-qjjqGq2eSDk3Rn6BM&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=5BgYe2aYYgiaQsQarGfnBA&_nc_ss=7b2a8&oh=00_AQMNK8AHiaItx4i-6prO0kuHYQcvYxS77zwt5ROzQfHeug&oe=6AD0B161
-- id: '1413409060367695'
-  title: 56cm Vintage Road Bike (Made in Canada) - $200(Surrey)
-  url: https://www.facebook.com/marketplace/item/1413409060367695/
-  make: null
-  model: null
-  type: road
-  price: 200
-  location: Surrey, BC
-  source: Facebook Marketplace
-  date_posted: '2026-10-10'
-  date_posted_display: a day ago
-  date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
-  posting_text: |-
-    Vintage road bicycle:
+    58cm c-c seat tube.
+    62cm c-c top tube.
+    I’m 6’1” for reference of how it looks now.
+    Long reach brakes.
+    Triple crank, lots of Shimano 600.
+    Colombus Thron tubing.
+    I have Suntour barcons but the 105STI shifter works on the right; the left is a bit gummy but I'm sure could be resurrected.
 
-    56 cm vertical / 57 cm top tube frame size bicycle.
-    - 10 speeds
-    - 27" tires
-    - good tires
-    - rides great
-    - very smooth ride
+    Super solid; ride to the Baja, to work or whatever.
 
-    56cm vertical bar / 57cm horizontal bar
+    Pedals belong to another bike. Will come off after the test ride if you decide to take it.
+
+    Only genuine expressions of interest will receive a reply. Thank-you.
   seller_condition: used - good
   frame_size: null
   seller_notes: null
   availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/841102600_1116408560884930_7535622743745148203_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=92e707&_nc_ohc=_v6r9HjuGM0Q7kNvwFuJlTX&_nc_oc=AdoFw23Kb0pMRybOKYeY7UEbq6KvnLDsAWs1BfDLoMI9mGazOUQxZ4OJt9i4ae2AyuE&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=o6dzJPqcEkmGyQM4yqAZzw&_nc_ss=7b2a8&oh=00_AQPOVGFMadBmygKPOIUEDb2V_N3AUtQ1s-kqjK2ocz7nvQ&oe=6AD0BD0B
-- id: '1470407744961931'
-  title: 57cm Size Road Bike - $200 (Surrey)
-  url: https://www.facebook.com/marketplace/item/1470407744961931/
+  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/843372841_1613737766794087_4661894506995075402_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=92e707&_nc_ohc=OT6ge2ZNUswQ7kNvwG5CtTK&_nc_oc=AdoNQdsfkXVUjs72kKhPQcdaLQSR-jbHgU5OWz_NHYGod-9d4aFM5BZ007eGmqux-iM&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=R4OF3wVq-G2Rll73Hc4jrQ&_nc_ss=7b2a8&oh=00_AQOv9SRlw4Y5nVZbmhTYi8iE8Wh3w7TJfYjLUUKoc3atDg&oe=6AD6C106
+- id: '1809897660201703'
+  title: Adult full suspension mountain bike
+  url: https://www.facebook.com/marketplace/item/1809897660201703/
   make: null
   model: null
-  type: road
-  price: 200
-  location: Surrey, BC
+  type: mountain
+  price: 45
+  location: Maple Ridge, BC
   source: Facebook Marketplace
-  date_posted: '2026-10-10'
-  date_posted_display: a day ago
+  date_posted: '2026-10-11'
+  date_posted_display: 4 days ago
   date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
+  date_verified: '2026-10-15T16:58:02.370Z'
   posting_text: |-
-    57 cm frame road bicycle.
-    - 10 speeds
-    - 700c aluminum wheels with Schwalbe tires
-    - road tires
-    - new saddle / seat
-    - rides great
-    - 57cm top tube
+    Works great,  no issues at all,  18 inch frame , good tirea and recent tubes , very good brakes , good chain , suspension works well . Comfortable ride , 26 inch wheels . $45  pu Maple Ridge
   seller_condition: used - good
   frame_size: null
   seller_notes: null
   availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/842176602_1956915775285307_2688181634732851163_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=107&ccb=1-7&_nc_sid=92e707&_nc_ohc=SV0dqnn44bUQ7kNvwE0tgvK&_nc_oc=AdrpKJr8nuK-Rn5aLk5oaqXA_pJyf81Y6CItmn_wH1NAbzJOvXsN3czE4ZHRAetCPTw&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=TbJ7E-MQUF_z71yjR4L7tw&_nc_ss=7b2a8&oh=00_AQNs2i9TAClB8KDULtbB8NiKdmrClw4tL-9IE6V4rL7KTw&oe=6AD09590
-- id: '2373515153466113'
-  title: Vintage Sekine Road Bike XL
-  url: https://www.facebook.com/marketplace/item/2373515153466113/
-  make: Sekine
+  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/842915065_1086748174354949_7711741291724271286_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=92e707&_nc_ohc=yXgNkhAUAeoQ7kNvwEnxQR8&_nc_oc=AdqwUsW1M1MbnXVqVmt9lqMFFuxqtyiOskGEgRpJZ-F1ghzZtNLzMxvYM80fZ1-eaLg&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=fyNr2oHJ3kBnBr0XQpdwbQ&_nc_ss=7b2a8&oh=00_AQP--E_OTYkcIV7aV7o6NuS2zNULPJvI0a0dRKsh0PcOQg&oe=6AD6D1F5
+- id: '1634289161475907'
+  title: Diamondback large size adult mountain bike
+  url: https://www.facebook.com/marketplace/item/1634289161475907/
+  make: Diamondback
   model: null
-  type: road
-  price: 200
-  location: Vancouver, BC
+  type: mountain
+  price: 70
+  location: Maple Ridge, BC
   source: Facebook Marketplace
-  date_posted: '2026-10-10'
-  date_posted_display: about an hour ago
+  date_posted: '2026-10-11'
+  date_posted_display: 4 days ago
   date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
+  date_verified: '2026-10-15T16:58:02.370Z'
   posting_text: |-
-    58 inch frame. Vintage Sekine road bike.
-
-    Definitely well ridden but new tires 2 months ago.
-
-    Comes with bell, carriage basket, lock and helmet (adult).
-
-    Can come with bike lights for $20 extra.
-
-    Basketball not included 🙁
-  seller_condition: used - fair
-  frame_size: null
-  seller_notes: null
-  availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/844253461_1256100863374943_728998086338479088_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=92e707&_nc_ohc=78pdVci35sgQ7kNvwEkAyAL&_nc_oc=AdreI54vie1MhEV_yu-3hOVzfkwje-X3piKE0BIw-Do-RgaScmJB0nEzuBNQ1wnxq-k&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=MlMRBJBCx_eTSfoa38CEuA&_nc_ss=7b2a8&oh=00_AQPqZfV16CQ0Ka6Akh4cnZ9OkbL_KzHDEb_NAsp3hqVFyQ&oe=6AD0ACC3
-- id: '1091439680273687'
-  title: Marin Redwood Hybrid Bike
-  url: https://www.facebook.com/marketplace/item/1091439680273687/
-  make: Marin
-  model: Redwood
-  type: hybrid
-  price: 40
-  location: Surrey, BC
-  source: Facebook Marketplace
-  date_posted: '2026-10-10'
-  date_posted_display: a day ago
-  date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
-  posting_text: |-
-    One owner very lightly used over the years. Was tuned up two years ago and only ridden a couple of times since. I have a new bicycle and don’t need it taking up space in my garage.
-    Versatile 17-inch Marin Redwood hybrid bike with a black aluminum frame. This bicycle has a Shimano Alivio 24-speed drivetrain, front suspension fork, and a suspension seatpost for comfort. It is equipped with full-length fenders, a rear cargo rack, a Topeak seat bag, a water bottle cage, and a handlebar bell. The tires are Kenda Kross and the bike has linear-pull V-brakes. Does not include under seat bag. Includes bell, mudguards, kickstand, carrier rack and water bottle cage.
+    Very nice condition,  20 inch aluminum frame,  26 inch wheels , near new tires and tubes . Excellent brakes , shifts gears well , really nice size Large mountain bike  , very light weight.
+    $70 pu Maple Ridge
   seller_condition: used - like new
   frame_size: null
   seller_notes: null
-  availability: pending
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/840908458_1625476815741099_6883602357175250246_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=100&ccb=1-7&_nc_sid=92e707&_nc_ohc=XZPVnJTIdUoQ7kNvwEsQExD&_nc_oc=AdoE3wvIA5QGRLIKQtphgIN61kFdkUqoUX9fFknwhqV3O3iKVJBCaxWhA91VJjYEArE&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=CEJCuosx4CnT1ocUW_aq0w&_nc_ss=7b2a8&oh=00_AQN5RZqgJm1X1lIWSEh-xFys80IEs79_cDIirAyrBP7fFw&oe=6AD0AD13
-- id: '1740251253716662'
-  title: Women’s Hybrid Bike
-  url: https://www.facebook.com/marketplace/item/1740251253716662/
-  make: null
-  model: null
-  type: hybrid
-  price: 100
-  location: Vancouver, BC
+  availability: unverified
+  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/843339392_1119425163960844_7537897272184583210_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=92e707&_nc_ohc=2778sjlgh1EQ7kNvwE-Ky5T&_nc_oc=Adp88icV-PXoGe4JIP9_JrxT6Z_PAUpkUbcq2wQr5FX_RsH5_OQjI1qtScyn9InHfHs&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=vXBVr17Puvf0cfD_jGHOMw&_nc_ss=7b2a8&oh=00_AQMlr8UCxGbPY3RAPYj9F7NqZIa4KpE26uh_ADXUATRx0w&oe=6AD6C730
+- id: '1089596303981782'
+  title: Mountain bike
+  url: https://www.facebook.com/marketplace/item/1089596303981782/
+  make: Nakamura
+  model: Blackhawk
+  type: mountain
+  price: 90
+  location: Langley Twp, BC
   source: Facebook Marketplace
-  date_posted: '2026-10-10'
-  date_posted_display: about an hour ago
+  date_posted: '2026-10-11'
+  date_posted_display: 4 days ago
   date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
+  date_verified: '2026-10-15T16:58:02.370Z'
   posting_text: |-
-    Hybrid bike - Size 18inch
-    Front basket and rear wheel shelf
-    Comes with lock and helmet
+    Nakamura Blackhawk new tires and rear carrier
   seller_condition: used - good
   frame_size: null
   seller_notes: null
   availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/841167419_4523378724646778_5580944075602170053_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=92e707&_nc_ohc=4GQ15j4zquYQ7kNvwEgV2vN&_nc_oc=Adow1YmkNIUr1Y71YHYFWl_iHrIbdE5Pa3zq3oUroqLJaxmFrGIYlP-JWO9TYB7fKdg&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=CXlv-sKIK8YkKHJ0slAGUQ&_nc_ss=7b2a8&oh=00_AQOcg0s3e10icIqr2ZQmaFuz3pC-RlnQeCNdsPDdAqrJQg&oe=6AD0A5AF
+  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/843461584_3028382260830653_8081454424970610791_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=92e707&_nc_ohc=f-gfrYGq__sQ7kNvwHDmdDR&_nc_oc=AdqzPTKXHfpWHX321pygc6T77LmT65ZEd2TuBoDy8pcbKa7k3odogM7NnYEQHE7x9JQ&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=3MvHujBXDntscurUnMSBeg&_nc_ss=7b2a8&oh=00_AQNOjBqPD87jFI3-YlPQwhZ9VvfIkfcNJR1PrPqgY3jgbQ&oe=6AD6ECB3
+- id: '1709578697352524'
+  title: Supercycle Dual Suspension Mountain Bike
+  url: https://www.facebook.com/marketplace/item/1709578697352524/
+  make: Supercycle
+  model: null
+  type: mountain
+  price: 110
+  location: Langley Twp, BC
+  source: Facebook Marketplace
+  date_posted: '2026-10-11'
+  date_posted_display: 4 days ago
+  date_posted_is_estimate: true
+  date_verified: '2026-10-15T16:58:02.370Z'
+  posting_text: |-
+    Dual suspension, good condition mountain bike. 29" frame.  New seat and new pedals.  Tire tread is good. Everything works. Asking $110
+  seller_condition: used - like new
+  frame_size: null
+  seller_notes: null
+  availability: unverified
+  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/839068344_1130513189512999_1852034114215490546_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=92e707&_nc_ohc=gL9CWeoV5U0Q7kNvwFxV3_Y&_nc_oc=Adqm8B3OSlqa1DUY4pSI6p1ob6OjElXC6NVIaxx8jNc2Io04dMjgei_UqEXBUkugLoE&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=bitNYrnjnX_hf7dkkDVwuQ&_nc_ss=7b2a8&oh=00_AQMbF4Dbrp-FMI9qjnfo8PmwIWEU_uaizb5l7iNfKbw4Pg&oe=6AD6C2F9
+- id: '1093490066942380'
+  title: Hyper Huffy Boundary Trail Mountain Bike
+  url: https://www.facebook.com/marketplace/item/1093490066942380/
+  make: Huffy
+  model: Boundary Trail
+  type: mountain
+  price: 144
+  location: Surrey, BC
+  source: Facebook Marketplace
+  date_posted: '2026-10-11'
+  date_posted_display: 4 days ago
+  date_posted_is_estimate: true
+  date_verified: '2026-10-15T16:58:02.370Z'
+  posting_text: |-
+    Practically brand new
+
+    Clean Huffy Boundary Trail mountain bike in grey with blue and red accents. This bicycle has a front suspension fork and a multi-speed drivetrain with a rear derailleur guard. The frame is constructed from steel and features knobby tires for off-road traction.
+
+    Pick up and test ride at 58ave and 124st Surrey
+
+    Cash or etransfer thanks!
+  seller_condition: used - like new
+  frame_size: null
+  seller_notes: null
+  availability: unverified
+  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/838851474_963126579594711_8187974863506854104_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=92e707&_nc_ohc=_AQBm_b2QJIQ7kNvwFWm2Py&_nc_oc=AdrSDno8vd1TIcxZ6pNmFKPFDckAGz2Ab7QxHmqy0Qc-Yd89T0UtHDO0nEJYQs71g7E&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=A2JGZDequYJAJsZE9p6eXw&_nc_ss=7b2a8&oh=00_AQOnk9mbUcLGFR0DQe3jp4G8gT2EBRlfEJMUmdlMtIaBbw&oe=6AD6DEC9
+- id: '1682513326586502'
+  title: Bike Made by PEUGEOT Coquitlam
+  url: https://www.facebook.com/marketplace/item/1682513326586502/
+  make: Peugeot
+  model: null
+  type: null
+  price: 50
+  location: Coquitlam, BC
+  source: Facebook Marketplace
+  date_posted: '2026-10-11'
+  date_posted_display: 4 days ago
+  date_posted_is_estimate: true
+  date_verified: '2026-10-15T16:58:02.370Z'
+  posting_text: |-
+    If you know about bikes Peugeot is a good name. I'm cleaning out my garage.
+    The first $50 takes her home.
+    7 Speed .
+    Como Lake area Coquitlam
+  seller_condition: used - good
+  frame_size: null
+  seller_notes: null
+  availability: unverified
+  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/841956783_1106345785313507_1285163735147891623_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=92e707&_nc_ohc=IkH1rZpOTnoQ7kNvwGiRiOI&_nc_oc=AdoMIMgP4zqjViPgADF4Bk3qyW_eB67IFrrg0rAMEcWL6FDRpy0GFZaRpTx-6s96kV4&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=00cxzfxaQASyOyKQzsEjHA&_nc_ss=7b2a8&oh=00_AQO_DuP9mBXFQP-Fv20ilDZz9MSdWIfOgjQPstLZ_6wIIQ&oe=6AD6D11D
+- id: '1751948415855924'
+  title: Raleigh route bicycle
+  url: https://www.facebook.com/marketplace/item/1751948415855924/
+  make: Raleigh
+  model: Route
+  type: null
+  price: 100
+  location: Maple Ridge, BC
+  source: Facebook Marketplace
+  date_posted: '2026-10-11'
+  date_posted_display: 4 days ago
+  date_posted_is_estimate: true
+  date_verified: '2026-10-15T16:58:02.370Z'
+  posting_text: |-
+    Selling bicycle as im to heavy for it. Bike has a rear flat tire otherwiae in perfect condition.
+  seller_condition: used - like new
+  frame_size: null
+  seller_notes: null
+  availability: unverified
+  image_url: null
+- id: '1806905053788920'
+  title: SEKINE 23" 12-speed vintage ROAD BIKE
+  url: https://www.facebook.com/marketplace/item/1806905053788920/
+  make: Sekine
+  model: null
+  type: road
+  price: 150
+  location: Vancouver, BC
+  source: Facebook Marketplace
+  date_posted: '2026-10-10'
+  date_posted_display: 5 days ago
+  date_posted_is_estimate: true
+  date_verified: '2026-10-15T16:58:02.370Z'
+  posting_text: |-
+    Vintage Sekine road bike $150
+    23" steel frame (good for someone about 5'5" - 6'2")
+    Made in Canada
+    good shape - ready to ride
+    downtown - west end
+  seller_condition: used - good
+  frame_size: null
+  seller_notes: null
+  availability: unverified
+  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/842954343_1082007321124574_3412559734848789583_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=92e707&_nc_ohc=7LputHNrI5cQ7kNvwFHETwv&_nc_oc=AdpjXr7cR9romJPKLk2jGS_EwVP-bQjaAvtsah-hnmvXs03Cy4MQmRNnuc50_Hme0lw&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=9zo5eZHM3tvjQK0rncl0hw&_nc_ss=7b2a8&oh=00_AQPjbX8Lj0BlMsFXwDUy-lhEnR_pKQQrslWI70ZyvMnz6Q&oe=6AD6E712
+- id: '2161166911148394'
+  title: Supercycle Reaction Hybrid Bike
+  url: https://www.facebook.com/marketplace/item/2161166911148394/
+  make: Supercycle
+  model: Reaction
+  type: hybrid
+  price: 125
+  location: Vancouver, BC
+  source: Facebook Marketplace
+  date_posted: '2026-10-10'
+  date_posted_display: 5 days ago
+  date_posted_is_estimate: true
+  date_verified: '2026-10-15T16:58:02.370Z'
+  posting_text: |-
+    Supercycle bike
+
+    Used less than 5 times, new condition. Tires need air. OBO.
+  seller_condition: used - like new
+  frame_size: null
+  seller_notes: null
+  availability: unverified
+  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/844340750_1511908037660527_8607206378807693050_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&ccb=1-7&_nc_sid=92e707&_nc_ohc=2KPUEl1mMPUQ7kNvwHxBDlD&_nc_oc=AdqBb9miEDxUdCe9KLc3HIo-OBpynQK7Ttrq7CcZ19oszv0KX1Imd8HWRgEWLKj8LPM&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=gkNeN5iGuzS43AMM-KeXZA&_nc_ss=7b2a8&oh=00_AQNl5XImIMEVqaT6BXCIseVe-853aFJlTv9YuTfKOBjjfA&oe=6AD6E0D8
 - id: '1653021076546798'
   title: Commuter Bike Rocky Mountain Metro 30
   url: https://www.facebook.com/marketplace/item/1653021076546798/
@@ -461,9 +455,9 @@ listings:
   location: Vancouver, BC
   source: Facebook Marketplace
   date_posted: '2026-10-10'
-  date_posted_display: 23 hours ago
+  date_posted_display: 5 days ago
   date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
+  date_verified: '2026-10-15T16:58:02.370Z'
   posting_text: |-
     Rocky Mountain Metro 30 Bike
     Includes full fenders
@@ -482,53 +476,7 @@ listings:
   frame_size: null
   seller_notes: null
   availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/840952376_3007649689582136_6163924040022692280_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&ccb=1-7&_nc_sid=92e707&_nc_ohc=Ca10KF_bb68Q7kNvwFp89rS&_nc_oc=Adox44gf_XQl4Vad5cjJIBAH1OnVDSzfs-xoMF9-OaeIpjeeJNd2k5wlPcSFLSF_0fY&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=MqWbaNWcNv5YazSFNnCc6w&_nc_ss=7b2a8&oh=00_AQM8H8-0mjHLyU_-eOSbJGEcW03FWyakqdNoGRLmjRyRjg&oe=6AD0B8D8
-- id: '2161166911148394'
-  title: Supercycle Reaction Hybrid Bike
-  url: https://www.facebook.com/marketplace/item/2161166911148394/
-  make: Supercycle
-  model: Reaction
-  type: hybrid
-  price: 150
-  location: Vancouver, BC
-  source: Facebook Marketplace
-  date_posted: '2026-10-10'
-  date_posted_display: 23 hours ago
-  date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
-  posting_text: |-
-    Supercycle bike
-
-    Used less than 5 times, new condition. Tires need air. OBO.
-  seller_condition: used - like new
-  frame_size: null
-  seller_notes: null
-  availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/844340750_1511908037660527_8607206378807693050_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&ccb=1-7&_nc_sid=92e707&_nc_ohc=IDxWy_rlBbQQ7kNvwGeHCWv&_nc_oc=AdrCDJWNyd0_6wjlc-MGMA2kpxH-r8Wwke7IV0PqTdcicXwskODzfGaj5w7WcVRo5Wc&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=kPcXsmIzXIkFZrhU3YIJng&_nc_ss=7b2a8&oh=00_AQN6rnf_MxekIJhsWF8cdFf7m3SMAURPWhscQ2J6N4IXIQ&oe=6AD0B9D8
-- id: '1115019244329226'
-  title: XL Hybrid Bike & accessories
-  url: https://www.facebook.com/marketplace/item/1115019244329226/
-  make: Raleigh
-  model: null
-  type: hybrid
-  price: 160
-  location: Vancouver, BC
-  source: Facebook Marketplace
-  date_posted: '2026-10-10'
-  date_posted_display: about an hour ago
-  date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
-  posting_text: |-
-    Raleigh men’s hybrid bike
-    Size XL
-    New front wheel
-    Rear wheel shelf
-    Comes with Lock, phone holder, bike pump, and helmet
-  seller_condition: used - good
-  frame_size: null
-  seller_notes: null
-  availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/843606763_1421798212756175_1909324132428769883_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=92e707&_nc_ohc=uIEPWDDcRbMQ7kNvwELidod&_nc_oc=Adp3e3zdFsOD_B_vSfaw1lRXfaqeWpcPj46TvOfyDrweLyWWVffyOrktIuCNPXJBvoE&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=LB1i0xZEy0H-uVzG9s9xBQ&_nc_ss=7b2a8&oh=00_AQP3K6ejVuRpZQv947fy7ZstG3VnEetXE_muTJNWbzSIZg&oe=6AD0AE79
+  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/840952376_3007649689582136_6163924040022692280_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&ccb=1-7&_nc_sid=92e707&_nc_ohc=VATzQ1T75QsQ7kNvwHa5TXZ&_nc_oc=AdpsW_cg6ecX26MBym0FTQ7qjhPYop6I1mdULqzMyZAYZvjRctXxyUxd89rewSDMD6g&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=qSEGnfEd3C2QjNaX4rA96g&_nc_ss=7b2a8&oh=00_AQMA0UFR-2dtYsv6mVy1WTt3iYO_OMVHnPL62d3LoA5EhA&oe=6AD6DFD8
 - id: '1887614275745418'
   title: Norco Bike
   url: https://www.facebook.com/marketplace/item/1887614275745418/
@@ -539,120 +487,16 @@ listings:
   location: Vancouver, BC
   source: Facebook Marketplace
   date_posted: '2026-10-10'
-  date_posted_display: a day ago
+  date_posted_display: 5 days ago
   date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
+  date_verified: '2026-10-15T16:58:02.370Z'
   posting_text: |-
     Barely used 19" Norco Plateau step-thru. Make an offer
   seller_condition: used - like new
   frame_size: null
   seller_notes: null
   availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/840952378_1255236307008376_8774242358736458448_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=100&ccb=1-7&_nc_sid=92e707&_nc_ohc=peNIHx-aW4cQ7kNvwFnMsaB&_nc_oc=Adp6CG6isFcWt49FVwqgu3sPKzefjMJQv7loygHWIJfQkqgK47zMkmQvpF5SE9cdXTA&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=x1Rd6DTvfRtuCilk3Fvinw&_nc_ss=7b2a8&oh=00_AQNqc9UEPmg_r8baSOOdOyOZ4aKTzuBrayT599Nka-tyZw&oe=6AD093E2
-- id: '1086145697502228'
-  title: Rocky Mountain Whistler LO Hybrid Bike
-  url: https://www.facebook.com/marketplace/item/1086145697502228/
-  make: Rocky Mountain
-  model: Whistler LO
-  type: hybrid
-  price: 200
-  location: Vancouver, BC
-  source: Facebook Marketplace
-  date_posted: '2026-10-10'
-  date_posted_display: 3 hours ago
-  date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
-  posting_text: |-
-    Versatile Rocky Mountain Whistler LO hybrid bike has a blue and white aluminum frame. It is equipped with a front suspension fork and Shimano mechanical disc brakes. The bike features a 3x drivetrain, a water bottle cage, and multi-surface tires.
-    Rides great, gears and breaks work well.
-
-    $200 obo
-
-    Moving must sell.
-  seller_condition: used - good
-  frame_size: null
-  seller_notes: null
-  availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/841012989_1123789506766209_1206570164540469074_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=92e707&_nc_ohc=G0hHksC1jBgQ7kNvwHy3eh9&_nc_oc=AdoUKjUHlqFZcSWftH9SxJyVhkRfw6kdyTU_domSV2DISe1iWfs5mygU_TekiBHOEnc&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=mkI9uNDMGLtnPhEE-nig1w&_nc_ss=7b2a8&oh=00_AQPGpq6bJAE0MV3CrJGurss_SkCeB38pR6g1JAaX3tblnA&oe=6AD0BF13
-- id: '1147220824921316'
-  title: COMMUTER BIKE - JUST TUNED UP
-  url: https://www.facebook.com/marketplace/item/1147220824921316/
-  make: null
-  model: null
-  type: commuter
-  price: 35
-  location: New Westminster, BC
-  source: Facebook Marketplace
-  date_posted: '2026-10-10'
-  date_posted_display: 2 hours ago
-  date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
-  posting_text: |-
-    17" frame size should suit most riders from 5'3" to 5'10" approx.
-
-    18 speed drivetrain just tuned up . shifts smoothly.
-
-    Brakes adjusted ,stops safely.
-
-    Fast rolling road/ commuter style tires are correctly inflated .
-
-     Chain lubricated .
-
-    Shows cosmetic imperfections , as you would expect.
-
-    Needs nothing , ready  to ride
-  seller_condition: used - good
-  frame_size: null
-  seller_notes: null
-  availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/840825252_1738386077241723_8720384471961667771_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=100&ccb=1-7&_nc_sid=92e707&_nc_ohc=t-CaB2wFkmoQ7kNvwH1tJmN&_nc_oc=Adp8pw9JyBhmvlSfBLO2n6mzP6sca59kc7RzNaFEXgxg8AGK3F1a6Rcjsn41AbDiAao&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=XJmJZ0xNAA3LLEho9dd1pg&_nc_ss=7b2a8&oh=00_AQOtTSianSOzQfwBa8a7nG1M4sgUfqxwhQOAus56QDoT7Q&oe=6AD0AD0B
-- id: '2968578459995076'
-  title: Raleigh bike 18 speeds ready to ride !
-  url: https://www.facebook.com/marketplace/item/2968578459995076/
-  make: Raleigh
-  model: null
-  type: commuter
-  price: 70
-  location: Vancouver, BC
-  source: Facebook Marketplace
-  date_posted: '2026-10-10'
-  date_posted_display: a day ago
-  date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
-  posting_text: |-
-    Selling a retro 80s/90s Raleigh bike in excellent working condition. 18 speeds Shimano gears, 26” wheels, comes with kickstand and new hand grips. Tuned up recently, full working condition, ready to ride. 19” frame size fits about 5’4 to 5’9 height. Solid and reliable old school Raleigh. Great commuter, fitness or seawall bike for great price, selling for only $70, pickup near Langara station. Thanks for looking 😊
-  seller_condition: used - good
-  frame_size: null
-  seller_notes: null
-  availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/844574873_1002863902826056_3307222026201186229_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=92e707&_nc_ohc=8HAj_3Cw_LMQ7kNvwGVw_qb&_nc_oc=AdrFyrO3_i34KOudyzlE58wMOWc0nD_CnlZ4FooIX_vjHQMqsjari7R1y5WCzj5H22w&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=Iw0TiE-cmPsy2kXcMZWhNg&_nc_ss=7b2a8&oh=00_AQPiYVBK8E-s0dSQ3O2YTcctygszpkO9DJo8gMbbsNnXFw&oe=6AD0B952
-- id: '1090074823604760'
-  title: Ladies Light Blue 7 Speed Road Cruiser Bike - $140 (Surrey)
-  url: https://www.facebook.com/marketplace/item/1090074823604760/
-  make: null
-  model: null
-  type: commuter
-  price: 140
-  location: Surrey, BC
-  source: Facebook Marketplace
-  date_posted: '2026-10-10'
-  date_posted_display: a day ago
-  date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
-  posting_text: |-
-    16" frame, 7 speed gear system.
-
-    - 27" wheels
-    - rides great
-    - ready to ride!
-    - fenders
-    - great condition
-    - has rear bike rack
-  seller_condition: used - like new
-  frame_size: null
-  seller_notes: null
-  availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/840406399_1059833540203705_3350195852302504813_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=92e707&_nc_ohc=SOEWePegFyoQ7kNvwHmvv0a&_nc_oc=Adp9sBeohX-Z57Ah7S2054xyNtLeauNJCwKWarxfg58dg9aix8z_o0WVaHmUGHWDlEk&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=xLjI2_TZpRB_zTxpUmHl1g&_nc_ss=7b2a8&oh=00_AQNbVtfNrSlG5SOG7baUO6XjiVSxQVEbb7Sd6plSQYuZeg&oe=6AD09C65
+  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/840952378_1255236307008376_8774242358736458448_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=100&ccb=1-7&_nc_sid=92e707&_nc_ohc=aTvxMp9o4Y8Q7kNvwGK3Y5s&_nc_oc=Ado0ggmcmTru-n_szQ6Bc9JcGipCczv68sk3RCDuDsJJEzPC4eJT99Q27og0FFXLJ6Y&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=GI8k2flxmcBV9akjZkVH7g&_nc_ss=7b2a8&oh=00_AQM0-NhMqRWowKcBPzb9xEWuna52bGy2E623VTjlBlxQaA&oe=6AD6F322
 - id: '1611547430444405'
   title: Schwinn Frisco Commuter Bike – 26” Wheels – 21 Speed – Purple - Small
   url: https://www.facebook.com/marketplace/item/1611547430444405/
@@ -663,9 +507,9 @@ listings:
   location: Vancouver, BC
   source: Facebook Marketplace
   date_posted: '2026-10-10'
-  date_posted_display: a day ago
+  date_posted_display: 5 days ago
   date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
+  date_verified: '2026-10-15T16:58:02.370Z'
   posting_text: |-
     Schwinn Frisco commuter bicycle with a lightweight aluminum frame, comfortable upright riding position, and metallic purple finish. Great for city commuting, recreational riding, and everyday transportation.
 
@@ -715,7 +559,7 @@ listings:
   frame_size: null
   seller_notes: null
   availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/843278713_2223785008353838_6637645460563169558_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=92e707&_nc_ohc=HVKj0m2D7g8Q7kNvwF9jEMj&_nc_oc=Ado9_DY-SoSSLQ-VJCCI6TgDeUeUs1YxZEwji0vwI5cOG8SMs3q9RBLzSPZmlTn-Iz4&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=98PVvXUohz5jVoSOvq89qg&_nc_ss=7b2a8&oh=00_AQNm4Ow0crF3l51sZmiUfRFQ-vX7DvV91UFXpQ_4PFHomw&oe=6AD0A832
+  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/843278713_2223785008353838_6637645460563169558_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=92e707&_nc_ohc=IT4JQnv_DCAQ7kNvwFMsjju&_nc_oc=Adr8LZWbEB861ZOeZAVdyfrvLkdRa7mOCn3R51S-9_4-b5UElInw9gHGAfshKj_w8Pk&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=YiJTnv81-rGhGON4tfzFcQ&_nc_ss=7b2a8&oh=00_AQNL-lJ_lqVBdeZyWWs5ItbjO1OYkbkqltEWNrmXCBoRiA&oe=6AD6CF32
 - id: '2359440941542498'
   title: Diamondback Beltline Commuter Bike, size M
   url: https://www.facebook.com/marketplace/item/2359440941542498/
@@ -726,9 +570,9 @@ listings:
   location: Vancouver, BC
   source: Facebook Marketplace
   date_posted: '2026-10-10'
-  date_posted_display: a day ago
+  date_posted_display: 5 days ago
   date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
+  date_verified: '2026-10-15T16:58:02.370Z'
   posting_text: |-
     Excellent condition, ready to ride. Only used for one summer. Vibrant red Diamondback commuter bike has a lightweight steel frame. This bicycle includes full-length fenders, a chain guard, equipped with a brown padded saddle seat, matching grips, and a 7 speed drivetrain. I changed the grips to black rubber ergonomic ones so it is more comfortable but the original matching grips are included. Note there is no rear rack.  Any standard rack should fit however.
 
@@ -739,122 +583,7 @@ listings:
   frame_size: null
   seller_notes: null
   availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/840923336_1860448791782984_409636726738667814_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=92e707&_nc_ohc=Px0AIKXb8rwQ7kNvwF49HBU&_nc_oc=AdrfHZMI41RqIK6H0oxdWwPI17XjRuKhld20Qb7oJ6yAt8GVW5m7bVeQWpAvVKS4hHQ&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=rLzcIn0loYxzIWR9De2IgA&_nc_ss=7b2a8&oh=00_AQPLehW-yk0xryjc09evLX5yrODdNo-8i8oxkQJuWSk77w&oe=6AD09E71
-- id: '1697845318623158'
-  title: Vitali Supersport Touring Commuter plus with some quirks
-  url: https://www.facebook.com/marketplace/item/1697845318623158/
-  make: Vitali
-  model: Supersport
-  type: commuter
-  price: 200
-  location: North Vancouver, BC
-  source: Facebook Marketplace
-  date_posted: '2026-10-10'
-  date_posted_display: 4 hours ago
-  date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
-  posting_text: |-
-    This is a custom Vitali.
-    58cm c-c seat tube.
-    62cm c-c top tube.
-    I’m 6’1” for reference of how it looks now.
-    Long reach brakes.
-    Triple crank, lots of Shimano 600.
-    Colombus Thron tubing.
-    I have Suntour barcons but the 105STI shifter works on the right; the left is a bit gummy but I'm sure could be resurrected.
-
-    Super solid; ride to the Baja, to work or whatever.
-
-    Pedals belong to another bike. Will come off after the test ride if you decide to take it.
-
-    Only genuine expressions of interest will receive a reply. Thank-you.
-  seller_condition: used - good
-  frame_size: null
-  seller_notes: null
-  availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/843372841_1613737766794087_4661894506995075402_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=92e707&_nc_ohc=tuk1f2vVI6EQ7kNvwGI6rxa&_nc_oc=Adof4J9IkOvs0if3lHUmorkno7wNLPsfL8bOgBHjWISQlninHsvm7JtGUlKNf5bvQXw&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=rtSn8zgmU_ew29DSfEEH0g&_nc_ss=7b2a8&oh=00_AQNHxDIP2j-3zsa8G0pbJa15l3YPI2zoyzZ78bfWUcNPOw&oe=6AD09A06
-- id: '1031211589924993'
-  title: Blue CCM Mountain Bike
-  url: https://www.facebook.com/marketplace/item/1031211589924993/
-  make: CCM
-  model: null
-  type: mountain
-  price: 50
-  location: Surrey, BC
-  source: Facebook Marketplace
-  date_posted: '2026-10-10'
-  date_posted_display: a day ago
-  date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
-  posting_text: |-
-    Blue CCM Mountain Bike for Sale 🚲
-
-    Selling a blue CCM mountain bike with green and white accents. Features front suspension, knobby tires for extra grip, multiple gears, and comfortable handlebars and seat. Great for riding around the neighbourhood, getting to school, or casual outdoor rides.
-  seller_condition: used - good
-  frame_size: null
-  seller_notes: null
-  availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/840378581_1414218393577281_1665269974150046130_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=102&ccb=1-7&_nc_sid=92e707&_nc_ohc=0KEAjM9yNnwQ7kNvwHPWbAW&_nc_oc=AdoZUaxTKTY0_HvM3ye9wcVwmzrnriMhkKECEE3d8cvbD32ivv3gR8MCCdBNGxHnn4I&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=BFg7EkxzXboi_uwYywphOA&_nc_ss=7b2a8&oh=00_AQOPmBI8UhNWeT2px5Zl9BGqMOnv1IoX-FfwAhKjaHP1zw&oe=6AD091D6
-- id: '4669908253228296'
-  title: Nakamura Defiant 2.6 Full Suspension Mountain Bike - Red
-  url: https://www.facebook.com/marketplace/item/4669908253228296/
-  make: Nakamura
-  model: Defiant 2.6
-  type: mountain
-  price: 50
-  location: North Vancouver District, BC
-  source: Facebook Marketplace
-  date_posted: '2026-10-10'
-  date_posted_display: a day ago
-  date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
-  posting_text: |-
-    Selling a Red Nakamura Defiant 2.6 Mountain Bike in good working condition.
-  seller_condition: used - good
-  frame_size: null
-  seller_notes: null
-  availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/839960847_1642144740727002_4787320918691745865_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=107&ccb=1-7&_nc_sid=92e707&_nc_ohc=BbLjkG0_z3EQ7kNvwFQN6sl&_nc_oc=AdqVptNbbrxLatFl6rRKHsAjSr-40s5FU1wPsi0oZU9CcKkzCXAI5XWoYXC15j33PXM&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=Pgxwv35k-TdWYd6DDcg25Q&_nc_ss=7b2a8&oh=00_AQNxBeRWIhAY1c3DiWxCPCTDxMmDvs5aurNitI5hb6AkOQ&oe=6ACFF7A9
-- id: '1809897660201703'
-  title: Adult full suspension mountain bike
-  url: https://www.facebook.com/marketplace/item/1809897660201703/
-  make: null
-  model: null
-  type: mountain
-  price: 60
-  location: Maple Ridge, BC
-  source: Facebook Marketplace
-  date_posted: '2026-10-10'
-  date_posted_display: about an hour ago
-  date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
-  posting_text: |-
-    Works great,  no issues at all,  18 inch frame , good tirea and recent tubes , very good brakes , good chain , suspension works well . Comfortable ride , 26 inch wheels . $60 pu Maple Ridge
-  seller_condition: used - good
-  frame_size: null
-  seller_notes: null
-  availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/842915065_1086748174354949_7711741291724271286_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=92e707&_nc_ohc=5s6ejpOXpVQQ7kNvwHmbQnU&_nc_oc=AdoJ1_AZ6tCYWtdbL6UAlHOojoa6T6fPzaeIX-pWOkrMmR-6gh5ksflf2VkB0s7vjZc&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=tWk_LGcAqb0vuow1bHFpzg&_nc_ss=7b2a8&oh=00_AQPqlX8gfYzRh21QIFWC6qO0JQEt_tkcNj8z-vR2VHmWrw&oe=6AD0AAF5
-- id: '1012073015235110'
-  title: Raleigh Tomahawk Mountain Bike
-  url: https://www.facebook.com/marketplace/item/1012073015235110/
-  make: Raleigh
-  model: Tomahawk
-  type: mountain
-  price: 65
-  location: West Vancouver, BC
-  source: Facebook Marketplace
-  date_posted: '2026-10-10'
-  date_posted_display: a day ago
-  date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
-  posting_text: |-
-    Aluminum Raleigh Tomahawk mountain bike is black and grey. It has a front Omni suspension fork and Shimano V-Brake shifters. The shifters are missing its top plastic covers. The bike has 26-inch tires and a black Selle Royal seat.
-  seller_condition: used - fair
-  frame_size: null
-  seller_notes: null
-  availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/839266666_1083488711130248_5281623226952981725_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=111&ccb=1-7&_nc_sid=92e707&_nc_ohc=uaMC39EpHPAQ7kNvwE2Z0fL&_nc_oc=AdohrpNh-SM10mhnJST0jya3SYbwvbo1K3FBoUCKBCN40seKyFDNpA41wCUc0fpvhT0&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=aLosnnOyruDMPFW648NA6Q&_nc_ss=7b2a8&oh=00_AQPosOeIOOGDsX7eXPcqzXr4IIw9jfXbVK5uPcWkxpvovg&oe=6AD0B4F9
+  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/840923336_1860448791782984_409636726738667814_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=92e707&_nc_ohc=_msYNfU6LusQ7kNvwE4c74M&_nc_oc=AdoVN8AltN_3F0EkMFM90_eAdYvrptgWOYgvHFNGSLtrwNZ7dPu7KUWys7qyOtT9iso&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=qtWKILN7jH4MfhjNZiGlLA&_nc_ss=7b2a8&oh=00_AQP4a28cbc1eUiHY9lmW4wbR1vAP8hAse8uS0LHNHWnJOw&oe=6AD6C571
 - id: '1422308560026960'
   title: Grey infinity huron 26” wheels mountain bike
   url: https://www.facebook.com/marketplace/item/1422308560026960/
@@ -865,37 +594,16 @@ listings:
   location: Burnaby, BC
   source: Facebook Marketplace
   date_posted: '2026-10-10'
-  date_posted_display: a day ago
+  date_posted_display: 5 days ago
   date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
+  date_verified: '2026-10-15T16:58:02.370Z'
   posting_text: |-
     This bicycle is equipped with shimano 21 speed drivetrain and front suspension,everything works,no issues,cash only.
   seller_condition: used - good
   frame_size: null
   seller_notes: null
   availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/842101041_1979071936092699_3851722807750297088_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=92e707&_nc_ohc=4VEfU70QeC4Q7kNvwH9PUfa&_nc_oc=Adr_4t0AeStAKHvRRioYl4pgJOJKv5RZ_WCKDUQqCIoa5lWGJzTHHharWIYCgkztlrg&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=3RCQEgmz9Ay9NCzOLjzAQw&_nc_ss=7b2a8&oh=00_AQMIsGcD7U-Nd1o9fLVbUqB9auqM10zOcmMPuQM6qUQLXA&oe=6AD0AA55
-- id: '1634289161475907'
-  title: Diamondback large size adult mountain bike
-  url: https://www.facebook.com/marketplace/item/1634289161475907/
-  make: Diamondback
-  model: null
-  type: mountain
-  price: 70
-  location: Maple Ridge, BC
-  source: Facebook Marketplace
-  date_posted: '2026-10-10'
-  date_posted_display: about an hour ago
-  date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
-  posting_text: |-
-    Very nice condition,  20 inch aluminum frame,  26 inch wheels , near new tires and tubes . Excellent brakes , shifts gears well , really nice size Large mountain bike  , very light weight.
-    $70 pu Maple Ridge
-  seller_condition: used - like new
-  frame_size: null
-  seller_notes: null
-  availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/843339392_1119425163960844_7537897272184583210_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=92e707&_nc_ohc=e3RfFsa9mo4Q7kNvwFy4Qzg&_nc_oc=AdoIucfelUYDLCq6BEqPS7zVH4iBFzq4d18TcauRbu_UaOtAAnfEGFNpzdJI-Nopi84&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=OrVoPj8_yyG3cL853El2Yw&_nc_ss=7b2a8&oh=00_AQM_u6wnTZ4G65qeQuJtTgJZ_8g94b7_Pv3QUbktYNCBuA&oe=6AD0A030
+  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/842101041_1979071936092699_3851722807750297088_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=92e707&_nc_ohc=9OSaBFLOzaAQ7kNvwEoLpgr&_nc_oc=Adp4Ai3SS29-aV_HwF2-N2QB5NyOeTH3bopfc6A0Sw7Gl6ylKBXlFZJ3_b-OTC4N2qs&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=FkYAwhNTcWeBUxwS6H9HLA&_nc_ss=7b2a8&oh=00_AQNXrRCvGLhG30QIDnyvXp5JsBNSYkNUoHmjODRCz-hcMQ&oe=6AD6D155
 - id: '1007027278464119'
   title: Bicycle
   url: https://www.facebook.com/marketplace/item/1007027278464119/
@@ -906,9 +614,9 @@ listings:
   location: Burnaby, BC
   source: Facebook Marketplace
   date_posted: '2026-10-10'
-  date_posted_display: 21 hours ago
+  date_posted_display: 5 days ago
   date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
+  date_verified: '2026-10-15T16:58:02.370Z'
   posting_text: |-
     Mountain Bike for Sale 🚲
 
@@ -921,148 +629,7 @@ listings:
   frame_size: null
   seller_notes: null
   availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/844252945_907225192324286_4196910154017796615_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=92e707&_nc_ohc=RvvZpoyTFLsQ7kNvwG-AXyB&_nc_oc=AdodlUqQFxIQmua0BDDotxrhRsuko4-XLFAYEYVlqL9h1cG7M1sh-g6gd8Y8vOmOR4Y&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=O8WU8zwOuj-yhHHM4HBTmA&_nc_ss=7b2a8&oh=00_AQOnwTx7gPIbjScOvN96mR-s4RPSPYTBOIAi_WtT_aU5jQ&oe=6AD0A644
-- id: '1671951174311324'
-  title: Nakamura bicycle for adult
-  url: https://www.facebook.com/marketplace/item/1671951174311324/
-  make: Nakamura
-  model: null
-  type: mountain
-  price: 90
-  location: Surrey, BC
-  source: Facebook Marketplace
-  date_posted: '2026-10-10'
-  date_posted_display: a day ago
-  date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
-  posting_text: |-
-    Bicycles for adult in good condition. Tires-26 inches, brakes, shifter and dual suspension work well. Clean and ready to use
-  seller_condition: used - good
-  frame_size: null
-  seller_notes: null
-  availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/840072436_39510907168493476_2389540306821536990_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=92e707&_nc_ohc=xUnhk06wT_0Q7kNvwGBMntA&_nc_oc=AdpW9M3Y_9x6TUuHVAiTZ6k84K0CqQwJcATHshHleAXuOs5173uenubzrnn2B52tUs4&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=ZqZuWffHGX-i_497H3bDIw&_nc_ss=7b2a8&oh=00_AQPzROq0-MVfeqzyC2llufRDbfFXFGRXJq4kRLaQyyamdg&oe=6AD09776
-- id: '1637234254694511'
-  title: Vintage North Country Mountain Bike / Commuter – Ready to Ride!
-  url: https://www.facebook.com/marketplace/item/1637234254694511/
-  make: North Country
-  model: null
-  type: mountain
-  price: 90
-  location: Vancouver, BC
-  source: Facebook Marketplace
-  date_posted: '2026-10-10'
-  date_posted_display: a day ago
-  date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
-  posting_text: |-
-    Classic North Country mountain bike perfect for daily commuting, casual cruising, or campus riding.
-
-    This bike has been tuned up and stored indoors and is in clean, solid condition.
-
-    It features a durable frame, classic high-rise handlebars for a comfortable upright riding position, and includes a handy water bottle cage.
-
-    Very strong metal spokes and very strong and durable.
-
-    • Wheel Size: 26 inch
-    • Frame: Steel
-    • Brakes & Gears: Multi-speed thumb shifters and standard rim brakes
-    • Condition: Complete and intact, frame looks great with very minor cosmetic wear from normal use.
-
-    Great budget-friendly alternative to expensive new bikes.
-
-    Pick up by Main Street & 46th Avenue, Vancouver
-  seller_condition: used - good
-  frame_size: null
-  seller_notes: null
-  availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/841386758_1117993830689525_8917249239213700967_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=107&ccb=1-7&_nc_sid=92e707&_nc_ohc=g11f38AtzFgQ7kNvwE8lM6t&_nc_oc=AdrJ-dKgJR1Ig5yr9IGxs-pozpBSQ-9By2jQkEs_gqrUGQdbWKu4-ID6Qz6nLmtgO3Y&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=5prqnRXiwNvntR7YnQimjA&_nc_ss=7b2a8&oh=00_AQNv8RZTgEHo6mna3BHTg8QjFq2ynvTiPiJdaK6j2Rs7Ng&oe=6AD08EDC
-- id: '1089596303981782'
-  title: Mountain bike
-  url: https://www.facebook.com/marketplace/item/1089596303981782/
-  make: Nakamura
-  model: Blackhawk
-  type: mountain
-  price: 90
-  location: Langley Twp, BC
-  source: Facebook Marketplace
-  date_posted: '2026-10-10'
-  date_posted_display: 36 minutes ago
-  date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
-  posting_text: |-
-    Nakamura Blackhawk new tires and rear carrier
-  seller_condition: used - good
-  frame_size: null
-  seller_notes: null
-  availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/843461584_3028382260830653_8081454424970610791_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=92e707&_nc_ohc=4evllmYFFeEQ7kNvwHXt1P5&_nc_oc=AdqenTR2Tba5REPsqxBApf6XAEGjKxlkFbDFJzDFPOE9vje4y4k7uQMLNkDrElSEEyE&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=JK6jhEsJUpNeG9aU8I8iVg&_nc_ss=7b2a8&oh=00_AQPU27WuJCInNCk5cSK2YpxjjyFGchxemeUB_j3xbMbPdg&oe=6AD0C5B3
-- id: '1136642358708724'
-  title: Infinity Huron Suspension Bike - $100 (Surrey)
-  url: https://www.facebook.com/marketplace/item/1136642358708724/
-  make: Infinity
-  model: Huron
-  type: mountain
-  price: 100
-  location: Surrey, BC
-  source: Facebook Marketplace
-  date_posted: '2026-10-10'
-  date_posted_display: a day ago
-  date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
-  posting_text: |-
-    Infinity Huron suspension bicycle for sale, great condition, 21 speed, looks great, great quality, 26" wheels, Kenda tires, 18" frame, Shimano SIS derailleur.
-  seller_condition: used - good
-  frame_size: null
-  seller_notes: null
-  availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/841013585_1762113345013904_5373739366353305603_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=92e707&_nc_ohc=RunAcb-oMKIQ7kNvwEMPNV4&_nc_oc=AdprTW3SBzdJzpRlmO9U5tAzqti4KWavd9EMwvIIn_tnuGnCKH4iIrsT2puROG4FiD0&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=-8E3vKpebWqPRyKS_jWyng&_nc_ss=7b2a8&oh=00_AQN17d6-_dLCWMSjJEiWTav4qdOz4AVW5SoyBJkeSLn3Sg&oe=6AD0B22B
-- id: '1709578697352524'
-  title: Supercycle Dual Suspension Mountain Bike
-  url: https://www.facebook.com/marketplace/item/1709578697352524/
-  make: Supercycle
-  model: null
-  type: mountain
-  price: 110
-  location: Langley Twp, BC
-  source: Facebook Marketplace
-  date_posted: '2026-10-10'
-  date_posted_display: about an hour ago
-  date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
-  posting_text: |-
-    Dual suspension, good condition mountain bike. 29" frame.  New seat and new pedals.  Tire tread is good. Everything works. Asking $110
-  seller_condition: used - like new
-  frame_size: null
-  seller_notes: null
-  availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/839068344_1130513189512999_1852034114215490546_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=92e707&_nc_ohc=MRWAVYuv8TsQ7kNvwEafh-p&_nc_oc=AdrmnZ39y5ULH00N3Inhg0NpwwJAN71hGAjFgtx-mp9lnHfpIKKDSGdXc61gPVUgTY0&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=CDIcIc3GJteXshdeYVnIXA&_nc_ss=7b2a8&oh=00_AQPUHQ3V8nwiMlC_9ApyDGTgO0QnWx9YMbGoWtDJ2vNrDQ&oe=6AD09BF9
-- id: '1079611454942628'
-  title: Full Suspension 26" Bike - $120 (Surrey)
-  url: https://www.facebook.com/marketplace/item/1079611454942628/
-  make: null
-  model: null
-  type: mountain
-  price: 120
-  location: Surrey, BC
-  source: Facebook Marketplace
-  date_posted: '2026-10-10'
-  date_posted_display: a day ago
-  date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
-  posting_text: |-
-    Full shocks bicycle in great condition!
-    - 21 speeds grip shifters
-    - 26" aluminum wheels
-    - 17" frame
-    - adjustable seat
-    - rides great
-    - everything works great
-  seller_condition: used - good
-  frame_size: null
-  seller_notes: null
-  availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/841437267_1638052764610923_4249563101436735557_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=92e707&_nc_ohc=Gu8lEUHrkaQQ7kNvwGIvdGR&_nc_oc=Adq9PnNnMkVimBNw18knX1YZ3AzOqVzsk8sKP5TYbNPF1EiTohLtl861u9bYFaYG05c&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=g3KW4Evq1-UKoQ5XbYnIug&_nc_ss=7b2a8&oh=00_AQPL6hpJZDYKaoXbq-0yiOB49etLFAOPitaXWsUiwrBhSQ&oe=6AD0AAF9
+  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/844252945_907225192324286_4196910154017796615_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=92e707&_nc_ohc=23j9s6GZkA0Q7kNvwFOnxk6&_nc_oc=AdrBrNeUtyOtZxUEpj8ozpubw9brv30o_o2Vmd5N4MbzPWnflk9vY9N8Ia4fqvCLh8o&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=vHQGUVp0hcQpHlqzyon-xA&_nc_ss=7b2a8&oh=00_AQPKOGN0Eb1plz-QkWNWsV8183_F6gMYqWxD1ahWvhtu5w&oe=6AD6CD44
 - id: '975477678247908'
   title: Supercycle Phantom 29 Mountain Bike
   url: https://www.facebook.com/marketplace/item/975477678247908/
@@ -1073,9 +640,9 @@ listings:
   location: Surrey, BC
   source: Facebook Marketplace
   date_posted: '2026-10-10'
-  date_posted_display: 22 hours ago
+  date_posted_display: 5 days ago
   date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
+  date_verified: '2026-10-15T16:58:02.370Z'
   posting_text: |-
     Reliable Supercycle Phantom 29 mountain bike has a black frame with red accents.
 
@@ -1088,202 +655,7 @@ listings:
   frame_size: null
   seller_notes: null
   availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/840520050_2193983571178229_5600408491092989585_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=92e707&_nc_ohc=1NVdhSbEYAkQ7kNvwE6gmHX&_nc_oc=AdpvPqenV4FIVNz2wiNO39IM-V-MdmaEgTM7XANWTVERMQvARHvl8coxYveQrKlThrw&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=G8g6j0rv0O8NEgkWZXQQAg&_nc_ss=7b2a8&oh=00_AQMfum8BFGMk3dgADHNI3WYXMiiug65k3LZjhkj-D8LQSw&oe=6AD0A779
-- id: '2874048916286667'
-  title: Giant Chaser 540 Aluminum Mountain Bike - 24" Wheels - Tuned & Ready to Ride
-  url: https://www.facebook.com/marketplace/item/2874048916286667/
-  make: Giant
-  model: Chaser 540
-  type: mountain
-  price: 120
-  location: Coquitlam, BC
-  source: Facebook Marketplace
-  date_posted: '2026-10-10'
-  date_posted_display: a day ago
-  date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
-  posting_text: |-
-    Giant Chaser 540 mountain bike in good working condition. Lightweight ALUXX aluminum frame, front suspension fork, and easy-to-use Shimano grip shifters make it a great bike for commuting, paved trails, parks, and recreational riding.
-    Features:
-    Giant Chaser 540 aluminum frame
-    24" wheels
-    Front suspension fork
-    21-speed Shimano drivetrain
-    Front and rear V-brakes
-    Kickstand included
-    Bell and bottle cage included
-    Comfortable upgraded Schwinn saddle
-    The bike rides well, shifts through the gears, and brakes properly. Shows normal cosmetic wear consistent with age but is ready to ride.
-    Great affordable bike for a teenager, student, or casual rider.
-  seller_condition: used - good
-  frame_size: null
-  seller_notes: null
-  availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/833882566_1096741243333445_5857229949052716142_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&ccb=1-7&_nc_sid=92e707&_nc_ohc=OUIn1uobmkUQ7kNvwEg6uzm&_nc_oc=Adr_vP72_OmwMa1ZNSiQpjZx4j4mTS25oqxlNiiIXh2BBcGyp7jDht7NjfYo8D4uE5Y&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=gJLtFUXyhi7j0jZMWcR0Bw&_nc_ss=7b2a8&oh=00_AQMeEy7Lrvt-jwoaQg_kFc6fL5KDZVnirGSK1-18vsA9Dw&oe=6AD0B647
-- id: '1537105498458382'
-  title: ROCKY MOUNTAIN “FUSION” 24 SPEED “CLASSIC”
-  url: https://www.facebook.com/marketplace/item/1537105498458382/
-  make: Rocky Mountain
-  model: Fusion
-  type: mountain
-  price: 140
-  location: Vancouver, BC
-  source: Facebook Marketplace
-  date_posted: '2026-10-10'
-  date_posted_display: 6 hours ago
-  date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
-  posting_text: |-
-    ROCKY MOUNTAIN “FUSION” 24 SPEED “CLASSIC”
-    This is basically a brand new bike that has been lovingly maintained and cared for!
-    This 20𐄈CroMo FRAME bike is suitable for SMALL/MEDIUM sized riders to enjoy the freedom of serious commuting.
-    It has reliable, simple to adjust V-BRAKES, 26 inch ALUMINUM wheels, “CITY SLICK” tires with lots of tread.
-    The smooth, 24 SPEED INDEX THUMB SHIFTERS  work like a clock, the seat is comfortable and is easily adjusted for height.
-    The front fork shock absorber has plenty of travel.
-    CABLE LOCK WITH KEY INCLUDED!
-    CLEANED, TUNED, LUBRICATED AND READY FOR THE ROAD/TRAIL
-     Respond to my ad by e-mail and I will get back to you either by text, phone or e-mail to arrange a time that is convenient for you to have a closer look and a test ride.
-    Ready for viewing and pick up near 20th Ave. and Knight St. in Vancouver
-    $140.00 O.B.O. (NO TAX)
-  seller_condition: used - like new
-  frame_size: null
-  seller_notes: null
-  availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/845436944_1012440124588083_5626679910194134708_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=100&ccb=1-7&_nc_sid=92e707&_nc_ohc=97YuKcznQLQQ7kNvwHXE3no&_nc_oc=AdoaG8FxkguKwwgwgf7QuF5ykstXYY-6V8EJnYr7QOLs9OQc1kaLj4ACN9BA_pOfPAY&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=O205486oQirMB0Su3M_GDQ&_nc_ss=7b2a8&oh=00_AQMfiKcZmF1XDQsnYW_muDfhluQUxC-iYQ-GDditvMw5tQ&oe=6AD0A595
-- id: '2287226715404289'
-  title: Full Suspension 26" Aluminum Bike - $140 (Surrey)
-  url: https://www.facebook.com/marketplace/item/2287226715404289/
-  make: null
-  model: null
-  type: mountain
-  price: 140
-  location: Surrey, BC
-  source: Facebook Marketplace
-  date_posted: '2026-10-10'
-  date_posted_display: a day ago
-  date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
-  posting_text: |-
-    full shocks bicycle in good condition
-    - 21 speeds grip shifters
-    - 26" aluminum wheels
-    - aluminum frame
-    - 18" frame
-    - adjustable seat
-    - rides great
-  seller_condition: used - good
-  frame_size: null
-  seller_notes: null
-  availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/843495679_1425895218874056_7550812719324441896_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=92e707&_nc_ohc=QAn2T6KHDGoQ7kNvwFnE-TQ&_nc_oc=AdqEyOpN64n-6ujKc_v8gHtMoAOOAEoMiajyrVBo7w-NJTa21e3mKHfFslUfZxYKWaA&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=1bO16khJh_mSmCKeUmfeSg&_nc_ss=7b2a8&oh=00_AQNSuWxwOabdAkoIvRYzdoMZvZN8ZIkAbiGRPkf1I88RYw&oe=6AD0C1CC
-- id: '4530418740619224'
-  title: CCM Nevada FS Suspension Bike Aluminum Frame - $140 (Surrey)
-  url: https://www.facebook.com/marketplace/item/4530418740619224/
-  make: CCM
-  model: Nevada FS
-  type: mountain
-  price: 140
-  location: Surrey, BC
-  source: Facebook Marketplace
-  date_posted: '2026-10-10'
-  date_posted_display: a day ago
-  date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
-  posting_text: |-
-    CCM Nevada FS model mountain bicycle.
-    - 19” vertical tube
-    - 21 speeds
-    - 26” wheels
-    - aluminum frame
-    - aluminum wheels
-    - light weight
-    - shifts very smooth
-    - brakes work great
-    - new tires
-    - super comfy seat
-    - high quality
-    - rides great
-    - bike is ready to ride!
-  seller_condition: used - like new
-  frame_size: null
-  seller_notes: null
-  availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/837632286_1872258504137651_5330013476081138224_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=108&ccb=1-7&_nc_sid=92e707&_nc_ohc=-RJn5_lZRxYQ7kNvwGaS5XT&_nc_oc=AdobPWDkkdcSAU1XOlHzSRnnH5I9o5QvXtFTyUhqbNKrA9v77eBhAy7Z-vqEYD32YNc&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=vLAm5NnbHJBSWj_UJyb2xg&_nc_ss=7b2a8&oh=00_AQNeawPb1k0cggH-41mrI4J6SwfzuVwZ4-7kJHU72x8kbQ&oe=6AD097D7
-- id: '1093490066942380'
-  title: Hyper Huffy Boundary Trail Mountain Bike
-  url: https://www.facebook.com/marketplace/item/1093490066942380/
-  make: Huffy
-  model: Boundary Trail
-  type: mountain
-  price: 149
-  location: Surrey, BC
-  source: Facebook Marketplace
-  date_posted: '2026-10-10'
-  date_posted_display: 2 hours ago
-  date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
-  posting_text: |-
-    Clean Huffy Boundary Trail mountain bike in grey with blue and red accents. This bicycle has a front suspension fork and a multi-speed drivetrain with a rear derailleur guard. The frame is constructed from steel and features knobby tires for off-road traction.
-
-    Pick up and test ride at 58ave and 124st Surrey
-
-    Cash or etransfer thanks!
-  seller_condition: used - like new
-  frame_size: null
-  seller_notes: null
-  availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/838851474_963126579594711_8187974863506854104_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=92e707&_nc_ohc=7d5JmvxzIuMQ7kNvwGI0Mzo&_nc_oc=AdokByRPYMJolrxKP_oRyAw0xJJxYOJrNEsodKL8RP4tiw7e_Lx5-srzQRagRq1H5r0&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=fHcec2Sdn6KOecFpL2lZ5w&_nc_ss=7b2a8&oh=00_AQNES6Iyh3KflmLkEGSgxDgOfaqNjI1GvjIJ_ue2z_5lEw&oe=6AD0B7C9
-- id: '1797448051453023'
-  title: Aluminum Suspension Mountain Bike - $150 (Surrey)
-  url: https://www.facebook.com/marketplace/item/1797448051453023/
-  make: null
-  model: null
-  type: mountain
-  price: 150
-  location: Surrey, BC
-  source: Facebook Marketplace
-  date_posted: '2026-10-10'
-  date_posted_display: a day ago
-  date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
-  posting_text: |-
-    Aluminum mountain bicycle. Great condition!
-    - aluminum frame
-    - 2 speed
-    - 26" wheels
-    - good tires
-    - Manitou suspension
-    - comfort saddle
-    - rides great
-    - large frame 19"
-    - front suspension
-  seller_condition: used - good
-  frame_size: null
-  seller_notes: null
-  availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/841261079_1824332328593466_452271319201451516_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&ccb=1-7&_nc_sid=92e707&_nc_ohc=Wzo964RZcm4Q7kNvwHx32Yt&_nc_oc=AdomXRDm5P6o2sw-3wH-037YH_BnkKJeYpAKw20wEKg12LHpsoiQaAZydRX05RNlZGs&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=s8Nexse14e4YPQH6Wn117g&_nc_ss=7b2a8&oh=00_AQOLIywRrhmU7o1hhdyDNhfpTZIv-6sA3Czag67LA-74Fw&oe=6AD09572
-- id: '38973102122338188'
-  title: Trek bicycle 820 womens
-  url: https://www.facebook.com/marketplace/item/38973102122338188/
-  make: Trek
-  model: '820'
-  type: mountain
-  price: 150
-  location: Vancouver, BC
-  source: Facebook Marketplace
-  date_posted: '2026-10-10'
-  date_posted_display: 2 hours ago
-  date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
-  posting_text: |-
-    Works great I just never ride it. Ill throw in the bike lock as well.
-
-    If its posted its available.
-  seller_condition: used - good
-  frame_size: null
-  seller_notes: null
-  availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/841230134_1609577087572545_6487355094543957892_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=92e707&_nc_ohc=tbhxaFXJ_P0Q7kNvwES8p4i&_nc_oc=AdrRsufVwylHxdUQAIac7xBdjBEeAevpupa1gkSJ_LsDeWykubRJmR8oGxSKREZ1MCM&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=9hxfAd7UFUyuqKGAq4JbPw&_nc_ss=7b2a8&oh=00_AQNCooHaJZ3AWAVPKXmm4Y73wd2ZETxxu0qveQkM705tZQ&oe=6AD0B003
+  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/840520050_2193983571178229_5600408491092989585_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=92e707&_nc_ohc=ftV-2Jt5pJQQ7kNvwG5NAOX&_nc_oc=AdrNLFes3Kea9B-AyUZcccHdWbGTBmknxfK-3DlSYz1DzEUPo-VMMi9o7LbIjhLTEqg&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=SMbP3p3NrA3Pbv1WLFiMZw&_nc_ss=7b2a8&oh=00_AQMmKURQFGe7T4mlQL7Ty94rLS9gnu5X-iAJgeYoK0ZOKw&oe=6AD6CE79
 - id: '1622610336543122'
   title: GT Avalanche 2.0 Mountain Bike – $175 OBO
   url: https://www.facebook.com/marketplace/item/1622610336543122/
@@ -1294,9 +666,9 @@ listings:
   location: Surrey, BC
   source: Facebook Marketplace
   date_posted: '2026-10-10'
-  date_posted_display: a day ago
+  date_posted_display: 5 days ago
   date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
+  date_verified: '2026-10-15T16:58:02.370Z'
   posting_text: |-
     **GT Avalanche 2.0 Mountain Bike – $175 OBO**
 
@@ -1319,179 +691,7 @@ listings:
   frame_size: null
   seller_notes: null
   availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/842328453_3974898349473716_1503741064156265766_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&ccb=1-7&_nc_sid=92e707&_nc_ohc=BrXcKi43XXEQ7kNvwEggwMz&_nc_oc=AdpdF9XGyVtfZpeOGCPwPSQUKjHp_EBgJ0onfkpBAUuSwoNRB4droblgGz6UoIiiyLQ&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=z3TWZCk40bUy5lGGXURjBg&_nc_ss=7b2a8&oh=00_AQNeJeWYazNT6omXw4DAeuZinFqpnu6LjKNaFkC9Ke7Ufw&oe=6AD09477
-- id: '2161069448158221'
-  title: 26" Schwinn Suspension Aluminum Mountain Bike - $180 (Surrey)
-  url: https://www.facebook.com/marketplace/item/2161069448158221/
-  make: Schwinn
-  model: null
-  type: mountain
-  price: 180
-  location: Surrey, BC
-  source: Facebook Marketplace
-  date_posted: '2026-10-10'
-  date_posted_display: a day ago
-  date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
-  posting_text: |-
-    26" wheel 24 speed bicycle in great condition!
-    -24 speeds
-    -26" wheels
-    -18" frame
-    -aluminum frame
-    -aluminum wheels
-    -adjustable seat
-    -rides great
-    -kick stand
-    -unisex
-  seller_condition: used - good
-  frame_size: null
-  seller_notes: null
-  availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/843405420_1505491421627944_5020922859164905946_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=92e707&_nc_ohc=LdOQUJMN4rUQ7kNvwHCqLVE&_nc_oc=AdoIW1Ot9vppF2o5Eg2W70JiGpp6WQcAw0IWFR2jpTxFKiXUH6aTd3eWuO4zonlXhew&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=mFlOegZOPIu9RMzqK_iN7Q&_nc_ss=7b2a8&oh=00_AQN0YVMljRURPjgDgCFAq8meGyHHXiYfrBXTCxcax3_WXw&oe=6AD096F3
-- id: '1648669266927097'
-  title: GT Avalanche 0.0 Mountain Bike – $200 OBO
-  url: https://www.facebook.com/marketplace/item/1648669266927097/
-  make: GT
-  model: Avalanche 0.0
-  type: mountain
-  price: 200
-  location: Surrey, BC
-  source: Facebook Marketplace
-  date_posted: '2026-10-10'
-  date_posted_display: a day ago
-  date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
-  posting_text: |-
-    **GT Avalanche 0.0 Mountain Bike – $200 OBO**
-
-     GT Avalanche 0.0 mountain bike in white, blue and black.
-
-    * RockShox Pilot front suspension
-    * Shimano Deore XT components
-    * Hydraulic disc brakes
-    * Shimano clipless pedals
-    * Knobby mountain bike tires
-
-    A great older GT mountain bike with quality components.
-
-    **Please note:** The front disc brake drags a bit and needs servicing or adjustment. Priced accordingly and sold as-is.
-
-    Pickup in South Surrey, BC. Open to reasonable offers.
-  seller_condition: used - good
-  frame_size: null
-  seller_notes: null
-  availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/844437920_1128783326337631_8710068633480778786_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&ccb=1-7&_nc_sid=92e707&_nc_ohc=vQYu0AQICMQQ7kNvwGaEZ4L&_nc_oc=AdrpgGdD_-ywZUi46IL30I2VSAx2Ccd89TYTj6wrYkOL8EYuz1o7ZyJZ6oO8thaDJfU&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=0ymIMIDjL9zsXSvQt6gRlg&_nc_ss=7b2a8&oh=00_AQNXa8eDMvOmLzVG6ag7N22d4TGvjCXdpKCqq683K1Atsw&oe=6AD0C5A7
-- id: '1078355271624451'
-  title: Norco Pinnacle Mountain Bike
-  url: https://www.facebook.com/marketplace/item/1078355271624451/
-  make: Norco
-  model: Pinnacle
-  type: mountain
-  price: 200
-  location: Vancouver, BC
-  source: Facebook Marketplace
-  date_posted: '2026-10-10'
-  date_posted_display: about an hour ago
-  date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
-  posting_text: |-
-    * Blue and white frame
-    * Front suspension
-    * Shimano gear system
-    * Suitable for everyday riding and commuting
-
-    A bell and bike lock are included for free!
-
-    Message me if you’re interested!
-  seller_condition: used - good
-  frame_size: null
-  seller_notes: null
-  availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/844024581_1489200853047837_6013810882574383973_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=108&ccb=1-7&_nc_sid=92e707&_nc_ohc=87H9IRuVUDsQ7kNvwGoEJGF&_nc_oc=Adp2yTCAUDNh_Izv8tfvBJsvFgd0YfW-yZziihBVI-gCramc19TwdzLuLN39y-Xy6us&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=XwlyTGi86fs9i_GwkRPWDQ&_nc_ss=7b2a8&oh=00_AQPNxRLhwVzyZeZdmvmiGiiQzWbFKChgiCdqSSnv9WAR9g&oe=6AD0B309
-- id: '1569929074437779'
-  title: 26-inch geared bicycle
-  url: https://www.facebook.com/marketplace/item/1569929074437779/
-  make: null
-  model: null
-  type: null
-  price: 30
-  location: Vancouver, BC
-  source: Facebook Marketplace
-  date_posted: '2026-10-10'
-  date_posted_display: 20 hours ago
-  date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
-  posting_text: |-
-    26-inch geared bicycle.The speed change function is normal.
-  seller_condition: used - good
-  frame_size: null
-  seller_notes: null
-  availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/836262222_28792363983728620_7055356687351713711_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=108&ccb=1-7&_nc_sid=92e707&_nc_ohc=fYH7QGdHJT0Q7kNvwHP4xq0&_nc_oc=AdotN8QCNAYgsFnG7ii-hLCMUlPpuFcNoLDTz8VorHAkpdQFa76krP2DALDRBhK1TZA&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=6_gO1vymTbHKBw7znzCQjA&_nc_ss=7b2a8&oh=00_AQMf0hT_94vQyjEjcMd_wkQaZ0rxkgXuxsgPTdpZ4fO8Sg&oe=6AD0A00A
-- id: '1682513326586502'
-  title: Bike Made by PEUGEOT Coquitlam
-  url: https://www.facebook.com/marketplace/item/1682513326586502/
-  make: Peugeot
-  model: null
-  type: null
-  price: 50
-  location: Coquitlam, BC
-  source: Facebook Marketplace
-  date_posted: '2026-10-10'
-  date_posted_display: 2 hours ago
-  date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
-  posting_text: |-
-    If you know about bikes Peugeot is a good name. I'm cleaning out my garage.
-    The first $50 takes her home.
-    Como Lake area Coquitlam
-  seller_condition: used - good
-  frame_size: null
-  seller_notes: null
-  availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/841956783_1106345785313507_1285163735147891623_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=92e707&_nc_ohc=ZXoxV-_w_FIQ7kNvwF0ozf1&_nc_oc=AdrWZnQa2nnBHzFWl3i-XYgPIbsDfkNNEyJY7xyIXFmyRAvXnI-7B6AhNXQgukX2Ou0&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=z4hN-E-xKwiuvVacm8UIrg&_nc_ss=7b2a8&oh=00_AQNVdAK_iAqBb1Ew4YtWbkkCNHV50xQoC8e1DjBLFEVqlA&oe=6AD0AA1D
-- id: '1794305218447678'
-  title: Bike
-  url: https://www.facebook.com/marketplace/item/1794305218447678/
-  make: null
-  model: null
-  type: null
-  price: 80
-  location: Vancouver, BC
-  source: Facebook Marketplace
-  date_posted: '2026-10-10'
-  date_posted_display: a day ago
-  date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
-  posting_text: |-
-    Bike used only few rides, almost as new. Moving and have no space to storage
-  seller_condition: used - like new
-  frame_size: null
-  seller_notes: null
-  availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/838488397_1649402210240817_96577916632308505_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=92e707&_nc_ohc=WLyk1BAXqTkQ7kNvwGhVpRa&_nc_oc=AdpKPY1_A0uVVh8vwsjATJqD6tTc6l-4ndyPL3Cy7Jw48kLLIicUt_4HGkF28loubnY&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=w6510ExFi6jr1OkMlvyUdg&_nc_ss=7b2a8&oh=00_AQOlEkzBmhbTlXYRcGsvgtx-WIlqMZMz6fSmneN4vyrwvA&oe=6AD098F9
-- id: '1600431448790354'
-  title: 26" Raleigh Bike - $120 (Surrey)
-  url: https://www.facebook.com/marketplace/item/1600431448790354/
-  make: Raleigh
-  model: null
-  type: null
-  price: 120
-  location: Surrey, BC
-  source: Facebook Marketplace
-  date_posted: '2026-10-10'
-  date_posted_display: a day ago
-  date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
-  posting_text: |-
-    26" wheel bicycle for sale, great condition, 18 speed, looks great, great quality, good tires with good tread, 52cm frame.
-  seller_condition: used - good
-  frame_size: null
-  seller_notes: null
-  availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/839618191_1074709882104502_6710529734905161836_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&ccb=1-7&_nc_sid=92e707&_nc_ohc=qW8qiZCNGGsQ7kNvwEHg2RE&_nc_oc=Adpm7mBypLCy1-LpmOtEeoGijaP7FKsiWHdqgOFqvM6C87n5RdGMnkU70ZjMaPH3Y1o&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=xRo8YExL8ITSf2KcKyyGDA&_nc_ss=7b2a8&oh=00_AQPtM01eVggBP_P2AZLfYHb4G7qJJ6LDX_VZoTYSiTh8_g&oe=6AD09E94
+  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/842328453_3974898349473716_1503741064156265766_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&ccb=1-7&_nc_sid=92e707&_nc_ohc=BDhKJOm_c14Q7kNvwGobC0u&_nc_oc=AdpUcnYtY5QxqXyieyjvQJDb8Ry4vobe09XYJoorpVEZ5FwtbqrlemTe_FhYvTj5Ndg&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=8vthQ8BX51DI48uYGpvTYA&_nc_ss=7b2a8&oh=00_AQOTY9s1n5_XSe3YplwtCxVB_VoMgIHG0hp_97MAsdduOg&oe=6AD6F3B7
 - id: '1593143179491871'
   title: Bicycle
   url: https://www.facebook.com/marketplace/item/1593143179491871/
@@ -1502,9 +702,9 @@ listings:
   location: Vancouver, BC
   source: Facebook Marketplace
   date_posted: '2026-10-10'
-  date_posted_display: a day ago
+  date_posted_display: 5 days ago
   date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
+  date_verified: '2026-10-15T16:58:02.370Z'
   posting_text: |-
     Sorry for messy photo I'm moving out. I bought this at a store on Comercial drive for 220. It is a fantastic bike. I haven't used for a long time but it's been stored inside. The tires need air but I replaced them so they are basically new. Other than that it's perfect!!!  It's a good deal for you it can be used for delivery it's a very nice bike I'm sad to sell.
   seller_condition: used - like new
@@ -1522,16 +722,16 @@ listings:
   location: Surrey, BC
   source: Facebook Marketplace
   date_posted: '2026-10-10'
-  date_posted_display: 13 hours ago
+  date_posted_display: 5 days ago
   date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
+  date_verified: '2026-10-15T16:58:02.370Z'
   posting_text: |-
     Great shape Nishiki
   seller_condition: used - good
   frame_size: null
   seller_notes: null
   availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/843548507_28883324747959770_7635878569634029272_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=107&ccb=1-7&_nc_sid=92e707&_nc_ohc=z6WoREk3dQQQ7kNvwHtLHDt&_nc_oc=AdpdonNFrAO4xoc3ugyUsMzUHZMPu3WVImKOjjR9kxZNcxEztH6SBS5nV3jyVpSgNio&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=UDYbaVmp9bFTvst8p5eCdA&_nc_ss=7b2a8&oh=00_AQPXGyaZalXXJH6wHWA0ZWZwW9kjw9YRWl537yzg0UK3WQ&oe=6AD0A523
+  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/843548507_28883324747959770_7635878569634029272_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=107&ccb=1-7&_nc_sid=92e707&_nc_ohc=3Ba7EBJ6QRgQ7kNvwFx8mef&_nc_oc=AdoBnOlq4Fy0nPgGvOigLW9LVqcxruXEVbLE1qYSSO1Ca6wEfuRqoQUib8lp81tKLO0&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=cfhzgSzdPWoE1zflPQdQog&_nc_ss=7b2a8&oh=00_AQNlkw5FtBJLMG3UbBNBSg8knkzi6Z1gjeH33pGk80NPxA&oe=6AD6CC23
 - id: '1648624503419452'
   title: Schwinn special edition adult bike
   url: https://www.facebook.com/marketplace/item/1648624503419452/
@@ -1542,9 +742,9 @@ listings:
   location: North Vancouver District, BC
   source: Facebook Marketplace
   date_posted: '2026-10-10'
-  date_posted_display: a day ago
+  date_posted_display: 5 days ago
   date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
+  date_verified: '2026-10-15T16:58:02.370Z'
   posting_text: |-
     Red used 3 times 2010year approximately. All works
   seller_condition: used - like new
@@ -1552,30 +752,109 @@ listings:
   seller_notes: null
   availability: unverified
   image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/843041706_4583852991853636_8028390493416563386_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=92e707&_nc_ohc=s4ZIPliR3eMQ7kNvwGu5L6e&_nc_oc=AdrFvvkx6hBpzBSSy-5ng_bZ9k0ICcH81mUJ5Rf2XdAr2_0YTMyZXWLpyATQUwpcQhY&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=oOFB4O5JARZzB-qZt9m3EA&_nc_ss=7b2a8&oh=00_AQMIX1z9tEUTFoYRN9apreZrqzhTAWNmbGVn35odGCLH5g&oe=6AD01193
-- id: '1409580157997036'
-  title: Norco Hybrid Bike
-  url: https://www.facebook.com/marketplace/item/1409580157997036/
-  make: Norco
-  model: null
-  type: hybrid
-  price: 100
+- id: '1134221079554136'
+  title: Vintage Apollo 12 Road Bike
+  url: https://www.facebook.com/marketplace/item/1134221079554136/
+  make: Apollo
+  model: '12'
+  type: road
+  price: 80
   location: Vancouver, BC
   source: Facebook Marketplace
   date_posted: '2026-10-09'
-  date_posted_display: 2 days ago
+  date_posted_display: 6 days ago
   date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
+  date_verified: '2026-10-15T16:58:02.370Z'
   posting_text: |-
-    Norco hybrid bike (17 inch frame).
+    Selling a cute vintage blue Apollo 12 road bike from the 1980s.
+    The frame was manufactured in Japan by Kuwahara (imported by Deeley), known for their classic, long-lasting steel builds.
 
-    The bike is equipped with a rear cargo rack, full fenders, a copper-colored bell, and a Kryptonite U-lock with a frame mount.
+    • Size: Men's Medium/Large frame
 
-    The front gear shifter is a little banged up (as seen in pictures) but functions perfectly fine.
-  seller_condition: used - good
+    • Components: Vintage SunTour shifters/derailleurs and Dia-Compe brakes
+
+    • Condition: The bike is currently in working condition, but it is being sold as-is. It has some minor cosmetic rust spots and scratches consistent with its age, and could use a tune-up/basic maintenance to get it running perfectly.
+
+    Perfect as a reliable daily commuter or a fun winter restoration project!
+
+    Pickup in Trout Lake Park area.
+     Feel free to message me with any questions!
+  seller_condition: used - fair
   frame_size: null
   seller_notes: null
   availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/839524625_4800800910147606_3576793210268581069_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=102&ccb=1-7&_nc_sid=92e707&_nc_ohc=RatuaA7mAJoQ7kNvwEWsyJA&_nc_oc=AdolSl2u6jBM8Lzrw99s05PSQapLU6DYNcUXcZ6UJ0pfSssRLyt5UkWf4izaQR4msuc&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=joY7PzjfOtFpTwo-PcOkxw&_nc_ss=7b2a8&oh=00_AQNm8hD9WS5Fe-StrJjQeFHA0OCzir2USRC6C0kpCRYfyw&oe=6AD0B3C5
+  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/842609323_1099748692914335_1348446886719912803_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=92e707&_nc_ohc=aL-4BfeD8DcQ7kNvwE8qi4q&_nc_oc=Adr5zC1a6Bn-St3rbA_A7nKLoompOdvrBx40cdOuEw4B0c4V8y7p-iXXe2txnE5Jf5I&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=EDt1x873FOpYWe4l2syW6Q&_nc_ss=7b2a8&oh=00_AQPVWVjODdOMhRKSM6ZmbzjHtE5H_1CxBMONiel9c53hew&oe=6AD6CC86
+- id: '4273761622840809'
+  title: Giant Rapid Road Bike
+  url: https://www.facebook.com/marketplace/item/4273761622840809/
+  make: Giant
+  model: Rapid
+  type: road
+  price: 180
+  location: North Vancouver, BC
+  source: Facebook Marketplace
+  date_posted: '2026-10-09'
+  date_posted_display: 6 days ago
+  date_posted_is_estimate: true
+  date_verified: '2026-10-15T16:58:02.370Z'
+  posting_text: |-
+    Small-sized Giant Rapid road bike has a white, black, and yellow aluminum frame. This bicycle is equipped with Shimano 8-speed shifters and a triple chainring drivetrain. The bike includes a kickstand, a yellow bottle cage, and a Giro helmet. Visible rust is present on the chain, chainrings, and various bolts.
+    North vancover
+  seller_condition: used - fair
+  frame_size: null
+  seller_notes: null
+  availability: unverified
+  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/841249386_2178726196362084_527645281840454298_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=92e707&_nc_ohc=ieMauvDd6XkQ7kNvwECIOD7&_nc_oc=Adr9ptmZdUscb6xvLaJhp9d6pk0jt3ZrxNYT0mEzuLMLC9MEcTBg3QRMQOV9EDBZ_zw&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=cgiv9ppYpMex7_N02bu_NQ&_nc_ss=7b2a8&oh=00_AQNWzxE7T2omby6mut_djVuu2VVl2OawccGY8HlzkfFyyA&oe=6AD6CDD2
+- id: '1488237869802900'
+  title: Giant Road Bike
+  url: https://www.facebook.com/marketplace/item/1488237869802900/
+  make: Giant
+  model: OCR 3
+  type: road
+  price: 200
+  location: North Vancouver, BC
+  source: Facebook Marketplace
+  date_posted: '2026-10-09'
+  date_posted_display: 6 days ago
+  date_posted_is_estimate: true
+  date_verified: '2026-10-15T16:58:02.370Z'
+  posting_text: |-
+    Giant OCR 3 Road Bike
+    Small frame
+
+    • Frame Material: ALUXX 6061 Aluminum (Lightweight & Durable)
+    • Fork: Carbon Composite (Vibration damping)
+    • Drivetrain: Shimano Sora 24-Speed (3x8 Triple Crankset)
+    • Shifters/Levers: Shimano Sora Integrated Brake/Shift Levers
+    • Brakes: Alloy Dual-Pivot Caliper
+    • Wheel Size: 700c Road Wheels
+    • Intended Use: Entry-level road riding, fitness, or commuting
+  seller_condition: used - fair
+  frame_size: null
+  seller_notes: null
+  availability: pending
+  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/844438147_4510408695874034_3240143117294171663_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&ccb=1-7&_nc_sid=92e707&_nc_ohc=KhpPFPjte_wQ7kNvwGnhE7a&_nc_oc=AdqtL9a714JKWF78veagCifgZikeNP6s7P2aKhqZFkXWx6MKL_eScZEgS9ACndY2za8&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=rLW7AdH4GmyG4uSrSsxfLA&_nc_ss=7b2a8&oh=00_AQOKcN_FjlNpgXZU50C1iIq5dd4t4X0IyCZOXZ8RadmTFA&oe=6AD6D861
+- id: '1091439680273687'
+  title: Marin Redwood Hybrid Bike
+  url: https://www.facebook.com/marketplace/item/1091439680273687/
+  make: Marin
+  model: Redwood
+  type: hybrid
+  price: 40
+  location: Surrey, BC
+  source: Facebook Marketplace
+  date_posted: '2026-10-09'
+  date_posted_display: 6 days ago
+  date_posted_is_estimate: true
+  date_verified: '2026-10-15T16:58:02.370Z'
+  posting_text: |-
+    One owner very lightly used over the years. Was tuned up two years ago and only ridden a couple of times since. I have a new bicycle and don’t need it taking up space in my garage.
+    Versatile 17-inch Marin Redwood hybrid bike with a black aluminum frame. This bicycle has a Shimano Alivio 24-speed drivetrain, front suspension fork, and a suspension seatpost for comfort. It is equipped with full-length fenders, a rear cargo rack, a Topeak seat bag, a water bottle cage, and a handlebar bell. The tires are Kenda Kross and the bike has linear-pull V-brakes. Does not include under seat bag. Includes bell, mudguards, kickstand, carrier rack and water bottle cage.
+  seller_condition: used - like new
+  frame_size: null
+  seller_notes: null
+  availability: pending
+  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/840908458_1625476815741099_6883602357175250246_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=100&ccb=1-7&_nc_sid=92e707&_nc_ohc=6LN3VUHZ_30Q7kNvwEYU7Zx&_nc_oc=AdqUaay_fRuublWrsX_PaTLEPuWdU9YDfVon_l1nlCFfhUOekjIb5DnvVJkurvwvgBQ&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=OSfDRSFdmBwc_pIYQw5bCw&_nc_ss=7b2a8&oh=00_AQORO_sQcWgd3p_zqDYCbiMVrnr1j8jrU5OPX9hW4QVgdQ&oe=6AD6D413
 - id: '2179328592622618'
   title: Cannondale H300 CAD1 Hybrid
   url: https://www.facebook.com/marketplace/item/2179328592622618/
@@ -1586,9 +865,9 @@ listings:
   location: Richmond, BC
   source: Facebook Marketplace
   date_posted: '2026-10-09'
-  date_posted_display: 2 days ago
+  date_posted_display: 6 days ago
   date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
+  date_verified: '2026-10-15T16:58:02.370Z'
   posting_text: |-
     Made in USA 18" fits riders 5'6"-5'9"
     14-speed with Dia compe brakes
@@ -1597,7 +876,133 @@ listings:
   frame_size: null
   seller_notes: null
   availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/838300296_2060685607917998_8123853544215987925_n.jpg?stp=dst-jpg_p960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=92e707&_nc_ohc=FYUkLLz99x8Q7kNvwFJSPpj&_nc_oc=Adp3k1MiyZSOqYBSSzgF2T9vWTU-mN-Jmw2mtjREt8q78wdbtSB-A3EECYfNNxwet-0&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=-0e0guAozncUQVwmdLEx2Q&_nc_ss=7b2a8&oh=00_AQMz8iq0EozEwugpqzX_ZL5ihBUqNeuLq52Qcbl7mrY2Wg&oe=6AD0ABFC
+  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/838300296_2060685607917998_8123853544215987925_n.jpg?stp=dst-jpg_p960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=92e707&_nc_ohc=svkALj4mBUwQ7kNvwG4nnVO&_nc_oc=AdoY88u2miPv-tqxjFptkBzCxwYpVEOnjv2l7kn1pgz007puRmIplzenfMXhmgjmBHc&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=0hqs_FwD3pxl3mvcgeT5cA&_nc_ss=7b2a8&oh=00_AQN-Gjx7ZTOcHnpz8hXDJomnhxHf22IEKTki8YasbmyF4Q&oe=6AD6D2FC
+- id: '4669908253228296'
+  title: Nakamura Defiant 2.6 Full Suspension Mountain Bike - Red!
+  url: https://www.facebook.com/marketplace/item/4669908253228296/
+  make: Nakamura
+  model: Defiant 2.6
+  type: mountain
+  price: 50
+  location: North Vancouver District, BC
+  source: Facebook Marketplace
+  date_posted: '2026-10-09'
+  date_posted_display: 6 days ago
+  date_posted_is_estimate: true
+  date_verified: '2026-10-15T16:58:02.370Z'
+  posting_text: |-
+    Selling a Red Nakamura Defiant 2.6 Mountain Bike in good working condition.
+  seller_condition: used - good
+  frame_size: null
+  seller_notes: null
+  availability: unverified
+  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/839960847_1642144740727002_4787320918691745865_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=107&ccb=1-7&_nc_sid=92e707&_nc_ohc=BbLjkG0_z3EQ7kNvwFQN6sl&_nc_oc=AdqVptNbbrxLatFl6rRKHsAjSr-40s5FU1wPsi0oZU9CcKkzCXAI5XWoYXC15j33PXM&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=Pgxwv35k-TdWYd6DDcg25Q&_nc_ss=7b2a8&oh=00_AQNxBeRWIhAY1c3DiWxCPCTDxMmDvs5aurNitI5hb6AkOQ&oe=6ACFF7A9
+- id: '1012073015235110'
+  title: Raleigh Tomahawk Mountain Bike
+  url: https://www.facebook.com/marketplace/item/1012073015235110/
+  make: Raleigh
+  model: Tomahawk
+  type: mountain
+  price: 65
+  location: West Vancouver, BC
+  source: Facebook Marketplace
+  date_posted: '2026-10-09'
+  date_posted_display: 6 days ago
+  date_posted_is_estimate: true
+  date_verified: '2026-10-15T16:58:02.370Z'
+  posting_text: |-
+    Aluminum Raleigh Tomahawk mountain bike is black and grey. It has a front Omni suspension fork and Shimano V-Brake shifters. The shifters are missing its top plastic covers. The bike has 26-inch tires and a black Selle Royal seat.
+  seller_condition: used - fair
+  frame_size: null
+  seller_notes: null
+  availability: unverified
+  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/839266666_1083488711130248_5281623226952981725_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=111&ccb=1-7&_nc_sid=92e707&_nc_ohc=4LR_v2rI8R0Q7kNvwE3UsXc&_nc_oc=Adr4XvgLCVdzgv_xC6iANNj3GGoDVUV2RQryokb3sVFVWfkgXxDG1mUMfW_uvVTSf1k&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=GLdsZL28EBJ8h6ROPdzPcA&_nc_ss=7b2a8&oh=00_AQPuVHt-xQZ1xH1ZQtb13b5o7jwfST2S3kLszC-nqAf9SQ&oe=6AD6DBF9
+- id: '1671951174311324'
+  title: Nakamura bicycle for adult
+  url: https://www.facebook.com/marketplace/item/1671951174311324/
+  make: Nakamura
+  model: null
+  type: mountain
+  price: 90
+  location: Surrey, BC
+  source: Facebook Marketplace
+  date_posted: '2026-10-09'
+  date_posted_display: 6 days ago
+  date_posted_is_estimate: true
+  date_verified: '2026-10-15T16:58:02.370Z'
+  posting_text: |-
+    Bicycles for adult in good condition. Tires-26 inches, brakes, shifter and dual suspension work well. Clean and ready to use
+  seller_condition: used - good
+  frame_size: null
+  seller_notes: null
+  availability: unverified
+  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/840072436_39510907168493476_2389540306821536990_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=92e707&_nc_ohc=1hJcJ4fsyn8Q7kNvwGYif-x&_nc_oc=AdrnQmZo9xrAbqBCGx8NuyCLbWgOePz1-VClusiiennEh2Ob0TKvTxA4u-Rf-Ds4YSg&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=ASF-Ujf2ooP-lF8b0n9GCQ&_nc_ss=7b2a8&oh=00_AQND2TnmtKbsXQAT8h8l4gF0lRLl-tbpM4Y2Z7aiWH5Ebw&oe=6AD6BE76
+- id: '1637234254694511'
+  title: Vintage North Country Mountain Bike / Commuter – Ready to Ride!
+  url: https://www.facebook.com/marketplace/item/1637234254694511/
+  make: North Country
+  model: null
+  type: mountain
+  price: 90
+  location: Vancouver, BC
+  source: Facebook Marketplace
+  date_posted: '2026-10-09'
+  date_posted_display: 6 days ago
+  date_posted_is_estimate: true
+  date_verified: '2026-10-15T16:58:02.370Z'
+  posting_text: |-
+    Classic North Country mountain bike perfect for daily commuting, casual cruising, or campus riding.
+
+    This bike has been tuned up and stored indoors and is in clean, solid condition.
+
+    It features a durable frame, classic high-rise handlebars for a comfortable upright riding position, and includes a handy water bottle cage.
+
+    Very strong metal spokes and very strong and durable.
+
+    • Wheel Size: 26 inch
+    • Frame: Steel
+    • Brakes & Gears: Multi-speed thumb shifters and standard rim brakes
+    • Condition: Complete and intact, frame looks great with very minor cosmetic wear from normal use.
+
+    Great budget-friendly alternative to expensive new bikes.
+
+    Pick up by Main Street & 46th Avenue, Vancouver
+  seller_condition: used - good
+  frame_size: null
+  seller_notes: null
+  availability: unverified
+  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/841386758_1117993830689525_8917249239213700967_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=107&ccb=1-7&_nc_sid=92e707&_nc_ohc=u0QB3nnCY_0Q7kNvwG-W2I1&_nc_oc=Adr2z0l_DzcNdpe2yWPvpMzAsgsM0jccoysSB0LzxU15dhuFtTWPVo3O7ziMdq481qg&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=8kVebOiVCcGgWn88S65wlA&_nc_ss=7b2a8&oh=00_AQNYN8v_H12-aCT6OiBnGHPiNMKIGmUZWzktX1ryvtASPw&oe=6AD6EE1C
+- id: '2874048916286667'
+  title: Giant Chaser 540 Aluminum Mountain Bike - 24" Wheels - Tuned & Ready to Ride
+  url: https://www.facebook.com/marketplace/item/2874048916286667/
+  make: Giant
+  model: Chaser 540
+  type: mountain
+  price: 100
+  location: Coquitlam, BC
+  source: Facebook Marketplace
+  date_posted: '2026-10-09'
+  date_posted_display: 6 days ago
+  date_posted_is_estimate: true
+  date_verified: '2026-10-15T16:58:02.370Z'
+  posting_text: |-
+    Giant Chaser 540 mountain bike in good working condition. Lightweight ALUXX aluminum frame, front suspension fork, and easy-to-use Shimano grip shifters make it a great bike for commuting, paved trails, parks, and recreational riding.
+    Features:
+    Giant Chaser 540 aluminum frame
+    24" wheels
+    Front suspension fork
+    21-speed Shimano drivetrain
+    Front and rear V-brakes
+    Kickstand included
+    Bell and bottle cage included
+    Comfortable upgraded Schwinn saddle
+    The bike rides well, shifts through the gears, and brakes properly. Shows normal cosmetic wear consistent with age but is ready to ride.
+    Great affordable bike for a teenager, student, or casual rider.
+  seller_condition: used - good
+  frame_size: null
+  seller_notes: null
+  availability: unverified
+  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/833882566_1096741243333445_5857229949052716142_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&ccb=1-7&_nc_sid=92e707&_nc_ohc=G_NVXRj0THUQ7kNvwHMR_O9&_nc_oc=AdrIxYlZnOiYefermSQm5bhm3NuYjcJWPzPa0QgHtzGuFzpZJNWrERoM-onXKPYrO5I&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=jPPdncXWHXphYrGk_63wfg&_nc_ss=7b2a8&oh=00_AQNbtfRKRoUi7P0ngLTZvQ5Cy3Nr8Wnwe7vBRo8YGocBlw&oe=6AD6DD47
 - id: '1461904599138520'
   title: Classic Bicycle- Men’s Specialized Crossroads
   url: https://www.facebook.com/marketplace/item/1461904599138520/
@@ -1608,73 +1013,16 @@ listings:
   location: Vancouver, BC
   source: Facebook Marketplace
   date_posted: '2026-10-08'
-  date_posted_display: 3 days ago
+  date_posted_display: a week ago
   date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
+  date_verified: '2026-10-15T16:58:02.370Z'
   posting_text: |-
     Men’s Specialized Crossroads Bicycle. 700 x 35. 21 gears. Lightly used. Bought in the mid 1990s. Unsure of material but quite light weight.  SF-S tubing. Made in Taiwan. Stored indoors. New tires. Garage sale.
   seller_condition: used - good
   frame_size: null
   seller_notes: null
   availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/842556170_1387456620042031_1634619850426751746_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=92e707&_nc_ohc=l64wyA0XQooQ7kNvwEca3ir&_nc_oc=Adro1bJGctsl_tAfjD3UUgckyfKeN0vYnwn8Ok1Iogk-DBOYqMIALnwoIP52cWu6QkM&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=YhmiakL62npYfnZS8kLMoQ&_nc_ss=7b2a8&oh=00_AQNFdgx8HEghoNSEo-II2aTpwQbeVEdRnCVejS0TfnkE1A&oe=6AD0A0B7
-- id: '1735645520879796'
-  title: Cannondale Adventure 800 Hybrid Bike (size Large)
-  url: https://www.facebook.com/marketplace/item/1735645520879796/
-  make: Cannondale
-  model: Adventure 800
-  type: hybrid
-  price: 135
-  location: North Vancouver District, BC
-  source: Facebook Marketplace
-  date_posted: '2026-10-07'
-  date_posted_display: 4 days ago
-  date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
-  posting_text: |-
-    Great vintage hybrid commuter bike package.
-
-    Solid handmade Cannondale Adventure 800 champagne aluminum frame (large size) with HeadShok front suspension fork, SRAM DualDrive 3x8 drivetrain, linear-pull rim brakes, rear cargo rack, full-length fenders, adjustable quill stem, comfort saddle with a suspension seatpost, 700c wheels with fancy Continental Grand Prix 4000 S II 28 inch tires 🙂
-
-    It is in good working condition (I put air in the tires, took it for a test ride around the block and ran it through the gears and tested brakes) Only known issue is it’s currently functioning like an 8 speed as the ‘3x’ is not working (you could leave as is or try to fix).
-
-    $135 (reducing price to sell fast as need space)
-
-    Pick up near Parkgate, North Van
-  seller_condition: used - good
-  frame_size: null
-  seller_notes: null
-  availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/840752762_2188488878679304_4986207266739696561_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=92e707&_nc_ohc=HVNnBf2mxxEQ7kNvwG0EiFW&_nc_oc=AdraP8fKbxeyrlb0HumherfYXb30UZ0c1x7xhfa_1hYHHE4jjCTF92WVpKzRC2XmHPs&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=-MXQZtv17DkuvVKGikohXg&_nc_ss=7b2a8&oh=00_AQO_ArO-2ZtMJdNariaIoVo2TyixA_MYR-em1EVqwXOPUA&oe=6AD0A14C
-- id: '1148545677499541'
-  title: APOLLO 18 SPEED CONVERTED ROAD BIKE (LARGE FRAME)
-  url: https://www.facebook.com/marketplace/item/1148545677499541/
-  make: Apollo
-  model: null
-  type: road
-  price: 120
-  location: Vancouver, BC
-  source: Facebook Marketplace
-  date_posted: '2026-10-06'
-  date_posted_display: 5 days ago
-  date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
-  posting_text: |-
-    APOLLO 18 SPEED CONVERTED ROAD BIKE (LARGE FRAME)
-    Calling all 6 footers! Finally, a bike large enough to accommodate tall riders!
-    The frame has some cosmetic scratches and the decals are faded (less likely to be stolen) but this converted road bike is ready for some no nonsense riding, a real delight to ride!
-    This light, 25” LARGE, FRAME bike is suitable for TALL sized riders  starting to enjoy the freedom of cycling. It has reliable, simple to adjust CALIPER-BRAKES, large diameter 27 INCH ALUMINUM WHEELS and NEW TIRES with lots of tread.
-    The smooth, 18 SPEED INDEX THUMB  SHIFTERS are mounted on the handle bar and work like a clock, the seat is comfortable and is easily adjusted for height.
-    CLEANED, TUNED, LUBRICATED AND READY FOR THE ROAD/TRAIL
-     Respond to my ad by e-mail and I will get back to you either by text, phone or e-mail to arrange a time that is convenient for you to have a closer look and a test ride.
-    Ready for viewing and pick up near 20th Ave. and Knight St. in Vancouver
-    $120.00 O.B.O. (NO TAX)
-  seller_condition: used - like new
-  frame_size: 25-inch large (seller-stated)
-  seller_notes: 18-speed converted road bike; 27-inch wheels and new tires. Seller says it suits riders around 6
-    feet; test fit before purchase.
-  availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/839334442_1476026211169092_1028532198140452096_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=102&ccb=1-7&_nc_sid=92e707&_nc_ohc=0JUOzsbynBQQ7kNvwHdvgKc&_nc_oc=Ado6VAGi8roqgk_x4TL7aA4PVAu0hiKye1RbxX5XsFa3_PqUCxZ2Ol-uo5mk5Up4zi4&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=hkOl_nLiv2nWe6HVz5wivA&_nc_ss=7b2a8&oh=00_AQPaYuiiyJvkOJmtkloQT_nf7y4SkOU2rLFHHnStjfJzFA&oe=6AD0BAB1
+  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/842556170_1387456620042031_1634619850426751746_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=92e707&_nc_ohc=p8No3emIGSkQ7kNvwH-ndDz&_nc_oc=AdpkA_lQRuqo2tQKaThR03KL8wAt0iCR5VQCKqn9N5RxVbQLaEVOTpD1wjtbyDH61ck&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=hXsMdUP1JaRY_qwVbQyPAg&_nc_ss=7b2a8&oh=00_AQM9t6-ApAp1amHxDn07m5QJNVHOs32CoAvWZLdd8_FvvQ&oe=6AD6C7B7
 - id: '1636269334511224'
   title: CCM Endurance Road Bike 52cm
   url: https://www.facebook.com/marketplace/item/1636269334511224/
@@ -1684,10 +1032,10 @@ listings:
   price: 200
   location: Vancouver, BC
   source: Facebook Marketplace
-  date_posted: '2026-10-06'
-  date_posted_display: 5 days ago
+  date_posted: '2026-10-08'
+  date_posted_display: a week ago
   date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
+  date_verified: '2026-10-15T16:58:02.370Z'
   posting_text: |-
     Brand new front tube.
 
@@ -1698,69 +1046,55 @@ listings:
   frame_size: null
   seller_notes: null
   availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/835450173_1784788846101569_8443074269597678067_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&ccb=1-7&_nc_sid=92e707&_nc_ohc=f9e2gdGXT4UQ7kNvwHqaEaL&_nc_oc=Adrg3jTKatennipC-MWLJUgSa0b-hnZg9fYtRPinK3V6jFWyXh5IqUYFWKjJ7cEf7Nc&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=FGWW3mGqyF4axLmncRI_6A&_nc_ss=7b2a8&oh=00_AQNdQh_Yfc1alJEd2FtKLT1H43MnL5WcMgvx6hp7qmmx8A&oe=6AD0C269
+  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/835450173_1784788846101569_8443074269597678067_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&ccb=1-7&_nc_sid=92e707&_nc_ohc=zYO-KdxVgb0Q7kNvwEQMVUE&_nc_oc=AdqqWZgSlzgu2lJt_H8rTd0c5DJvaQd1wpbuVk6lLnsT-Sw1J_UQabDNUMad2Jjj-ko&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=qWOJzWf3MRLIPGbIT7uOvA&_nc_ss=7b2a8&oh=00_AQOP4VXBoUMkHgkWqr_7sXULSqsp0YLNhxOxDsirxRH74A&oe=6AD6E969
+- id: '1735645520879796'
+  title: Cannondale Adventure 800 Hybrid Bike (size Large)
+  url: https://www.facebook.com/marketplace/item/1735645520879796/
+  make: Cannondale
+  model: Adventure 800
+  type: hybrid
+  price: 125
+  location: North Vancouver District, BC
+  source: Facebook Marketplace
+  date_posted: '2026-10-08'
+  date_posted_display: a week ago
+  date_posted_is_estimate: true
+  date_verified: '2026-10-15T16:58:02.370Z'
+  posting_text: |-
+    Great vintage hybrid commuter bike package.
+
+    Solid handmade Cannondale Adventure 800 champagne aluminum frame (large size) with HeadShok front suspension fork, SRAM DualDrive 3x8 drivetrain, linear-pull rim brakes, rear cargo rack, full-length fenders, adjustable quill stem, comfort saddle with a suspension seatpost, 700c wheels with fancy Continental Grand Prix 4000 S II 28 inch tires 🙂
+
+    It is in good working condition (I put air in the tires, took it for a test ride around the block and ran it through the gears and tested brakes) Only known issue is it’s currently functioning like an 8 speed as the ‘3x’ is not working (you could leave as is or try to fix).
+
+    $125 (reducing price to sell fast as need space)
+
+    Pick up near Parkgate, North Van
+  seller_condition: used - good
+  frame_size: null
+  seller_notes: null
+  availability: unverified
+  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/840752762_2188488878679304_4986207266739696561_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=92e707&_nc_ohc=SHvgP-iux00Q7kNvwG7I7Ak&_nc_oc=Ado_DnRy3cSSUl2eKJnHfBx6amnQ6F-InJCApFeAiMauwRxkDQOiDhVRmHCRTDRaNJY&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=KTjp3vDDpChIz5RGmrmWyA&_nc_ss=7b2a8&oh=00_AQPDfBZknF041gHYTOAE25wpszE_HVr0IAqHSQ1Ujlt9Uw&oe=6AD6C84C
 - id: '1840722190705603'
   title: Norco Indie Hybrid Bicycle
   url: https://www.facebook.com/marketplace/item/1840722190705603/
   make: Norco
   model: Indie
   type: hybrid
-  price: 170
+  price: 150
   location: Surrey, BC
   source: Facebook Marketplace
-  date_posted: '2026-10-04'
+  date_posted: '2026-10-08'
   date_posted_display: a week ago
   date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
+  date_verified: '2026-10-15T16:58:02.370Z'
   posting_text: |-
     Lightweight aluminum frame hybrid bicycle in matte black. This bike has a rigid fork, flat handlebars, and mechanical disc brakes. It is equipped with a multi-speed drivetrain, platform pedals, and 700c wheels with reflective sidewall tires.
   seller_condition: used - fair
   frame_size: null
   seller_notes: null
   availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/830436856_959082937245243_2920120520684517283_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=92e707&_nc_ohc=HNexqhfuBy4Q7kNvwFKUZev&_nc_oc=AdpzTQZW-eNjtadUBqVnxENNqCMlZxYo2Zh0FyieFZ2untWuSjLWLruZ112C75LKJk8&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=PC4jKEoNtK0Hv3nmMvGOzg&_nc_ss=7b2a8&oh=00_AQM9zJBvrcyDy2mhlOjk08CnobovpfNxQerELDam0ClF5A&oe=6AD0C0A3
-- id: '1788516538962216'
-  title: Hyper 700c Gravel Road Bike
-  url: https://www.facebook.com/marketplace/item/1788516538962216/
-  make: Hyper
-  model: 700c
-  type: gravel
-  price: 150
-  location: Vancouver, BC
-  source: Facebook Marketplace
-  date_posted: '2026-09-27'
-  date_posted_display: 2 weeks ago
-  date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
-  posting_text: |-
-    Used good. 5.10.2026 Will go to another city for 3 Weeks, The listing will be available. Thanks
-  seller_condition: used - good
-  frame_size: null
-  seller_notes: null
-  availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/815188179_917802097766960_4578657622262864422_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=92e707&_nc_ohc=Qe0eaP9GnMsQ7kNvwETm3Tm&_nc_oc=Adrkx8mX1egzwMa5ldvouKb5H2sumQsATtqUy3XedDL5s7cQNPVSTiOxDyRRVc30pqU&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=HqTpTX9vn6XFHJHXlJRubg&_nc_ss=7b2a8&oh=00_AQP7XmK0wRHuzJT41NxY5QBV_OB7at4lx7Luhv5THMXUow&oe=6AD09EA1
-- id: '3090615694475776'
-  title: Nakamura bicycle
-  url: https://www.facebook.com/marketplace/item/3090615694475776/
-  make: Nakamura
-  model: null
-  type: hybrid
-  price: 200
-  location: Vancouver, BC
-  source: Facebook Marketplace
-  date_posted: '2026-09-27'
-  date_posted_display: 2 weeks ago
-  date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
-  posting_text: |-
-    Selling my Nakamura bike in good working condition. Great for commuting, casual rides, bike paths, or getting around the city.
-
-    Features front suspension, multiple gears, hand brakes, kickstand, comfortable saddle, and a lightweight-looking frame. Tires are in good condition and the bike is ready to ride. It has some normal cosmetic signs of use, as shown in the photos.
-  seller_condition: used - like new
-  frame_size: null
-  seller_notes: null
-  availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/818365628_4394772307423521_1152926052460398316_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=92e707&_nc_ohc=dNnKp29DJUcQ7kNvwGnR6WB&_nc_oc=AdorpLIqVXCPz1cGnqEzv-RY6vHwD3dQg_6vsNgFKQaeC7rKRJqaF9cWzTqB9w79WFI&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=UUkkmzEe_YcxIuJVsz7OAQ&_nc_ss=7b2a8&oh=00_AQPXBqeg7Zx-xChoUFW1FRh1Rr_0ZJQi8KjF0NRchfokxQ&oe=6AD0C573
+  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/830436856_959082937245243_2920120520684517283_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=92e707&_nc_ohc=lLf8D1C9BdAQ7kNvwGK9_Pr&_nc_oc=AdobNlPundH9wEhG7SjYw-3cLZ1Kbe-lkLgGEce39x8S5R_QDvONRTTKQV77XCo00_c&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=tQEoGPCBUjcjhaCSqfYfxg&_nc_ss=7b2a8&oh=00_AQOCH6NY1tPQxUBdb_PewkEJ_bKRuOjKybCq5ssLBbc5Sg&oe=6AD6E7A3
 - id: '2022213371792842'
   title: Raleigh Single Speed Commuter Bike - Rack & Fenders - Ready to Ride
   url: https://www.facebook.com/marketplace/item/2022213371792842/
@@ -1770,10 +1104,10 @@ listings:
   price: 90
   location: Vancouver, BC
   source: Facebook Marketplace
-  date_posted: '2026-09-27'
+  date_posted: '2026-10-01'
   date_posted_display: 2 weeks ago
   date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
+  date_verified: '2026-10-15T16:58:02.371Z'
   posting_text: |-
     Raleigh single-speed commuter bike in good condition. Lightweight and simple with low-maintenance drivetrain. Great for commuting, fitness rides, or getting around town.
     Features:
@@ -1790,29 +1124,49 @@ listings:
   frame_size: null
   seller_notes: Single speed; front and rear brakes; rack and full fenders; seller says it rides smoothly.
   availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/821637956_2120866035187220_415697188179951311_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&ccb=1-7&_nc_sid=92e707&_nc_ohc=zAIFLNkgo9UQ7kNvwFDnwWK&_nc_oc=Adq3PKkNS0XNKPN4mRNAP2ExUQlTXUkfqCyKXXDOVbrx2TndLJ8x7kYk8py6-KtdXyg&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=5R8Pc7z_kM3BqOgK0dsxmQ&_nc_ss=7b2a8&oh=00_AQPAi1XgOhZONZR9N3BaL3QN23u-pKfN0bGf-1fCuKHhDA&oe=6AD0A673
-- id: '1831385044513359'
-  title: Rocky mountain fusion bike
-  url: https://www.facebook.com/marketplace/item/1831385044513359/
-  make: Rocky Mountain
-  model: Fusion
-  type: mountain
-  price: 90
+  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/821637956_2120866035187220_415697188179951311_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&ccb=1-7&_nc_sid=92e707&_nc_ohc=_OxQSZ6S8E0Q7kNvwFDbY67&_nc_oc=Adorio-EQ0I2SR1zjv2Zllt1js-ZoAoT8i5tNuRHsy3T9Ihsmc7rUg0avwYpxHYo_m0&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=X7uUtBINoz9ouyZrFL-Xog&_nc_ss=7b2a8&oh=00_AQOfZjMq0jfpm1nLLyyD4BqRnstcSykFaVKKZmjva4Dz1w&oe=6AD6CD73
+- id: '1788516538962216'
+  title: Hyper 700c Gravel Road Bike
+  url: https://www.facebook.com/marketplace/item/1788516538962216/
+  make: Hyper
+  model: 700c
+  type: gravel
+  price: 150
   location: Vancouver, BC
   source: Facebook Marketplace
-  date_posted: '2026-09-20'
+  date_posted: '2026-09-24'
   date_posted_display: 3 weeks ago
   date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
+  date_verified: '2026-10-15T16:58:02.371Z'
   posting_text: |-
-    has a grey aluminum frame with black and silver accents.
-    This bike is equipped with a RockShox Judy front suspension fork and a Shimano drivetrain. It has front and rear fenders, Bontrager tires, and rim brakes.
-    17.5" frame for riders between 5'4" to 5'9"
+    Used good. 5.10.2026 Will go to another city for 3 Weeks, The listing will be available. Thanks
   seller_condition: used - good
   frame_size: null
   seller_notes: null
   availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/810216235_1063718406275509_5142773060885720323_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=92e707&_nc_ohc=XrRJsKom-5QQ7kNvwGzojme&_nc_oc=AdoCrojI-56YWWR2WJ2MxeRbeO5u6HzFiSJuujnRkqAtFsbncx41yl4IADMsfTrmBdA&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=5-j-4JWdZxX-OAed9h_xxQ&_nc_ss=7b2a8&oh=00_AQMtYsBRDLkCqymTLj-OLaGPCREFaaYjXrmT30pRuVALHw&oe=6AD0C3AA
+  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/815188179_917802097766960_4578657622262864422_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=92e707&_nc_ohc=zrIQH4em4VUQ7kNvwE3-WTg&_nc_oc=AdqfaKUb1VFN7UVv6-fOTxeVD-uzxKhOhkaIfvXtoFUwaPw0JHd0t-CVmriV7yBX3WM&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=T39p23F4s37VaQhpGl9DfQ&_nc_ss=7b2a8&oh=00_AQOHNAKtJUiXSV5yezo14mhn1Tvp6Tyw0wtHr_eYGJpnNQ&oe=6AD6C5A1
+- id: '3090615694475776'
+  title: Nakamura bicycle
+  url: https://www.facebook.com/marketplace/item/3090615694475776/
+  make: Nakamura
+  model: null
+  type: hybrid
+  price: 200
+  location: Vancouver, BC
+  source: Facebook Marketplace
+  date_posted: '2026-09-24'
+  date_posted_display: 3 weeks ago
+  date_posted_is_estimate: true
+  date_verified: '2026-10-15T16:58:02.371Z'
+  posting_text: |-
+    Selling my Nakamura bike in good working condition. Great for commuting, casual rides, bike paths, or getting around the city.
+
+    Features front suspension, multiple gears, hand brakes, kickstand, comfortable saddle, and a lightweight-looking frame. Tires are in good condition and the bike is ready to ride. It has some normal cosmetic signs of use, as shown in the photos.
+  seller_condition: used - like new
+  frame_size: null
+  seller_notes: null
+  availability: unverified
+  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/818365628_4394772307423521_1152926052460398316_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=92e707&_nc_ohc=kURDKGlW0GIQ7kNvwGMOJ-W&_nc_oc=Adr74tEZ0dP0RKyogFJRtNDDNmpxx7IceGND4He7YwdENTOpNFfcupfmj6OAmTBcOVg&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=EiUZtmOff7tg3lqzr7K1GA&_nc_ss=7b2a8&oh=00_AQPzVLklb-h7E51EjAyqwhAa8tP65TTYtKZZ9Pw5jMaM9Q&oe=6AD6EC73
 - id: '4766830090221197'
   title: Trek 4300 Mountain Bike
   url: https://www.facebook.com/marketplace/item/4766830090221197/
@@ -1822,10 +1176,10 @@ listings:
   price: 160
   location: Richmond, BC
   source: Facebook Marketplace
-  date_posted: '2026-09-20'
+  date_posted: '2026-09-24'
   date_posted_display: 3 weeks ago
   date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
+  date_verified: '2026-10-15T16:58:02.371Z'
   posting_text: |-
     Durable Trek 4300 mountain bike has a black Alpha Aluminum frame. It is equipped with an RST front suspension fork and a Shimano drivetrain. The bike has 26-inch wheels with knobby tires and a kickstand. It includes a water bottle cage and platform pedals.
 
@@ -1835,47 +1189,28 @@ listings:
   seller_notes: null
   availability: unverified
   image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/815470824_4727369657546430_1742514400705981617_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=92e707&_nc_ohc=u5at5RpIzsIQ7kNvwEqRtdR&_nc_oc=AdqmcF0EXBd7_Zh1AgCIdIFoq1AT92RTjVBkOTJqZh0L0mwxAzIkvcp0ArM1TScgdOs&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=Opj9GvvS7grm5W3Yd5aonQ&_nc_ss=7b2a8&oh=00_AQPvSET-zT4A0Qdg73vWsu_Q4u_gc7ZSu70rM4zSqPmFrg&oe=6ACFA3F5
-- id: '2332171630653229'
-  title: Bicycle
-  url: https://www.facebook.com/marketplace/item/2332171630653229/
-  make: null
-  model: null
-  type: null
-  price: 100
-  location: Surrey, BC
+- id: '1831385044513359'
+  title: Rocky mountain fusion bike
+  url: https://www.facebook.com/marketplace/item/1831385044513359/
+  make: Rocky Mountain
+  model: Fusion
+  type: mountain
+  price: 90
+  location: Vancouver, BC
   source: Facebook Marketplace
-  date_posted: '2026-09-20'
-  date_posted_display: 3 weeks ago
-  date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
-  posting_text: |-
-    Used, as good as new
-    Good conditions
-  seller_condition: used - like new
-  frame_size: null
-  seller_notes: null
-  availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/811170766_1051396781095253_4941709117349265454_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=92e707&_nc_ohc=grkx4T-JrTMQ7kNvwERltG9&_nc_oc=AdoqqS6ld9QkRkOMLpxSKi3Os5PetPClKYB31QyIiOm1ONh2c_TiQ7wORHe_owCPxGk&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=wMLIp-t-OD-suGWbdxMfKQ&_nc_ss=7b2a8&oh=00_AQOxs2iEuTqwLfwas0HVKCw4VTZqYdj7U08Iv6t76v3EHA&oe=6AD0C380
-- id: '1564429097944575'
-  title: Argon 18 Xenon-T2 Road Bike
-  url: https://www.facebook.com/marketplace/item/1564429097944575/
-  make: Argon 18
-  model: Xenon-T2
-  type: road
-  price: 180
-  location: Surrey, BC
-  source: Facebook Marketplace
-  date_posted: '2026-09-13'
+  date_posted: '2026-09-17'
   date_posted_display: 4 weeks ago
   date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
+  date_verified: '2026-10-15T16:58:02.371Z'
   posting_text: |-
-    Yellow Argon 18 Xenon-T2 road bike with an aluminum frame. It has a Shimano triple crankset and Xero Lite wheels. The bike is equipped with a rear cargo rack, a Profile Design saddle-mounted bottle cage, and drop handlebars with black tape. A silver metal clamp is attached to the down tube.
-  seller_condition: used - fair
+    has a grey aluminum frame with black and silver accents.
+    This bike is equipped with a RockShox Judy front suspension fork and a Shimano drivetrain. It has front and rear fenders, Bontrager tires, and rim brakes.
+    17.5" frame for riders between 5'4" to 5'9"
+  seller_condition: used - good
   frame_size: null
   seller_notes: null
   availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/798787541_1052465207393713_1950435679896585307_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&ccb=1-7&_nc_sid=92e707&_nc_ohc=posrBaMPz6EQ7kNvwH0O5pS&_nc_oc=AdpLJ7YzryHbbRj3tIc2L4wlzpSWH0S3KTVCuJcp_Fy-JDiO8jkNulx7MBE1R0F3qFY&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=E72REU3Z7nz7VbZ_yta3Rg&_nc_ss=7b2a8&oh=00_AQOKN_emPBbBe5T4l4NsQ2aD1PtFx5uSZQp-iSQyDnkHzQ&oe=6AD0C016
+  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/810216235_1063718406275509_5142773060885720323_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=92e707&_nc_ohc=mirE2--dDe4Q7kNvwGdQzHZ&_nc_oc=Adp6ayNSiHRBJv5PKFYm1LlybnDnAWC3364zch-kFnJMoNrp6WL318B6eyCBDCFvDOc&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=xSLF1YJGOFja9hVa6UZgqQ&_nc_ss=7b2a8&oh=00_AQO36xPyzL2AoLIpkC4zu8Lw35Lt5I_Fawwf6ZfhfhZl6w&oe=6AD6EAAA
 - id: '1762752411432076'
   title: Bicycle
   url: https://www.facebook.com/marketplace/item/1762752411432076/
@@ -1885,17 +1220,37 @@ listings:
   price: 170
   location: Vancouver, BC
   source: Facebook Marketplace
-  date_posted: '2026-09-13'
+  date_posted: '2026-09-17'
   date_posted_display: 4 weeks ago
   date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
+  date_verified: '2026-10-15T16:58:02.371Z'
   posting_text: |-
     Only pickup
   seller_condition: used - good
   frame_size: null
   seller_notes: null
   availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/807485581_29470263379229658_6003979151514138522_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=92e707&_nc_ohc=fZwjBJ0zmQoQ7kNvwGqHZ4M&_nc_oc=AdqsqpFM8Pg170SY0_DgOkv4EFnx1nMKTE1tLR1WZ9C-p5Ljmo5ghxSjOpfaZMMY5h4&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=gvldsa0rl4TOFFwf7WL2GA&_nc_ss=7b2a8&oh=00_AQMZPo3JiiVXshRn3ctp3ThgamUrz462SO1m_uLlIOKkJQ&oe=6AD0C485
+  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/807485581_29470263379229658_6003979151514138522_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=92e707&_nc_ohc=YyQ96-Ze7lgQ7kNvwHpEMbZ&_nc_oc=Adp3oMYC0uUjTFIuC4DxlxPL0JdzSccaFOBagzrG1GEKP7qOrkGFpS_vlr5THDSvPFQ&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=3lINiVHOkxDxuEHtxg-kig&_nc_ss=7b2a8&oh=00_AQOxerhV57rX7pwu2fDk7LBbzaOG0M2EQ5kQFF8pTXxFkQ&oe=6AD6EB85
+- id: '1564429097944575'
+  title: Argon 18 Xenon-T2 Road Bike
+  url: https://www.facebook.com/marketplace/item/1564429097944575/
+  make: Argon 18
+  model: Xenon-T2
+  type: road
+  price: 180
+  location: Surrey, BC
+  source: Facebook Marketplace
+  date_posted: '2026-09-10'
+  date_posted_display: 5 weeks ago
+  date_posted_is_estimate: true
+  date_verified: '2026-10-15T16:58:02.371Z'
+  posting_text: |-
+    Yellow Argon 18 Xenon-T2 road bike with an aluminum frame. It has a Shimano triple crankset and Xero Lite wheels. The bike is equipped with a rear cargo rack, a Profile Design saddle-mounted bottle cage, and drop handlebars with black tape. A silver metal clamp is attached to the down tube.
+  seller_condition: used - fair
+  frame_size: null
+  seller_notes: null
+  availability: unverified
+  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/798787541_1052465207393713_1950435679896585307_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&ccb=1-7&_nc_sid=92e707&_nc_ohc=9ZxAG1nXPoQQ7kNvwHViDE4&_nc_oc=AdrHte3T7wYiF1d6FJyO9rQecHrEQbUo4KHgbq94G75CNJZfnsyikR0rjd3YZQQrmjQ&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=dVi3SIWX1Uu0syQma25ETg&_nc_ss=7b2a8&oh=00_AQMV9_GvOKXMSVNlhSueyf4pSBwCvBWqrHzpPozCRYOIIQ&oe=6AD6E716
 - id: '1279468787560628'
   title: Cramerotti bike
   url: https://www.facebook.com/marketplace/item/1279468787560628/
@@ -1905,10 +1260,10 @@ listings:
   price: 200
   location: North Vancouver District, BC
   source: Facebook Marketplace
-  date_posted: '2026-09-13'
-  date_posted_display: 4 weeks ago
+  date_posted: '2026-09-10'
+  date_posted_display: 5 weeks ago
   date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
+  date_verified: '2026-10-15T16:58:02.371Z'
   posting_text: |-
     Bike frame is solid condition.
     Size is 19.5 from center of crank to center of top tube
@@ -1926,17 +1281,17 @@ listings:
   price: 75
   location: Richmond, BC
   source: Facebook Marketplace
-  date_posted: '2026-09-06'
-  date_posted_display: 5 weeks ago
+  date_posted: '2026-09-03'
+  date_posted_display: 6 weeks ago
   date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
+  date_verified: '2026-10-15T16:58:02.371Z'
   posting_text: |-
     Well used mountain bike, comes with free bike stand for storage
   seller_condition: used - fair
   frame_size: null
   seller_notes: null
   availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/789728537_2255368201903678_3383774941226812942_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=92e707&_nc_ohc=Rv9yPjQ3KJwQ7kNvwGVSk2J&_nc_oc=AdrdK35IgK1KoVLElCXDx5mr14-ZsyrUnj-X7jtrnm_4UiBcXQGSnN75NM2pgr0HEs4&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=9hu80eAribFaht3KRGxdMg&_nc_ss=7b2a8&oh=00_AQNjzkYTC0yOOXZNIaHkwgjoBZ_Bo7rafBDVuQN2KJAL_Q&oe=6AD0AD0E
+  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/789728537_2255368201903678_3383774941226812942_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=92e707&_nc_ohc=6vlPrQwN8N4Q7kNvwHglzTS&_nc_oc=AdpxBy7os5UIDlB0SXgZSNP-zR433Fw_ZspzRuqaV5GqdfYRucOdgWrCCGOnrGgRtUQ&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=UY1pi-uxFLsrbrDPzAQ7iw&_nc_ss=7b2a8&oh=00_AQMeYs7ivc5_K-vDKDFNA1rk9ebUreX9HGL3YBFnqLNTIw&oe=6AD6D40E
 - id: '1691368858612857'
   title: Norco Bigfoot Mountain Bike
   url: https://www.facebook.com/marketplace/item/1691368858612857/
@@ -1946,10 +1301,10 @@ listings:
   price: 175
   location: Vancouver, BC
   source: Facebook Marketplace
-  date_posted: '2026-09-06'
-  date_posted_display: 5 weeks ago
+  date_posted: '2026-09-03'
+  date_posted_display: 6 weeks ago
   date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
+  date_verified: '2026-10-15T16:58:02.371Z'
   posting_text: |-
     Norco Bigfoot mountain bike in dark navy/blue. Solid, classic mountain bike with 18” frame and 26” wheels.
 
@@ -1966,7 +1321,7 @@ listings:
   frame_size: null
   seller_notes: null
   availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/787221694_2461038627726370_2228177470485084854_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&ccb=1-7&_nc_sid=92e707&_nc_ohc=PTIbeCFFPicQ7kNvwH8hOOb&_nc_oc=Adph23GTY_9tXPow4B20HAz-8SkqEz1miTXAOd8EmANY1hG34Nf7CWkbk3Rd_AC41cI&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=EVkUgbVeh4i1JqK9P6EjFg&_nc_ss=7b2a8&oh=00_AQPiTjksaJynkSRxwOCx_pvjrc7wg2fk0W7sxEyx4_hZiA&oe=6AD09648
+  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/787221694_2461038627726370_2228177470485084854_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&ccb=1-7&_nc_sid=92e707&_nc_ohc=gBfioCCWclgQ7kNvwGH_Gi_&_nc_oc=Adpn6YUxlUx5AmCL1Yej5m4mLVw0NTDU16RnUzl1NTRfJolT-yxtxnGuhA7RfauLEjM&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=RWm5wJeaHwfkp8ML7zMmgQ&_nc_ss=7b2a8&oh=00_AQMz-iD7DmGhuc6_ilTMa8BRrkYZgxsnKxgQK6PzPr81AA&oe=6AD6BD48
 - id: '4389754301287955'
   title: Fuji Newest 3.0 Road Bike - 50cm
   url: https://www.facebook.com/marketplace/item/4389754301287955/
@@ -1976,10 +1331,10 @@ listings:
   price: 150
   location: Vancouver, BC
   source: Facebook Marketplace
-  date_posted: '2026-08-30'
-  date_posted_display: 6 weeks ago
+  date_posted: '2026-08-27'
+  date_posted_display: 7 weeks ago
   date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
+  date_verified: '2026-10-15T16:58:02.371Z'
   posting_text: |-
     Lightweight road bike with a silver and red aluminum frame. This Fuji Newest 3.0 has drop handlebars, a rear cargo rack, and a Shimano drivetrain. The bike is equipped with rim brakes and a padded saddle. Got a new bike so no longer needed - had this bike for a year and it was super comfortable for commuting and also bike packing!
 
@@ -1994,7 +1349,7 @@ listings:
   frame_size: null
   seller_notes: null
   availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/787406177_1093201556548529_9197565839793117003_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=92e707&_nc_ohc=2p6VKl3-Jf8Q7kNvwEgLkHP&_nc_oc=AdrMJy9hJS_TNxkUQR_P31ylQqj5BE-NPcIcMWv4QToEOVe3PjqKy5dbgkeSj9vB8Qw&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=ICvvpy6_2CWakI__dOEpRg&_nc_ss=7b2a8&oh=00_AQMfjz4BXeTiqfFLyWwSu4BJ7AH4EKKUNubGmjKl4PNeAg&oe=6AD0BE78
+  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/787406177_1093201556548529_9197565839793117003_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=92e707&_nc_ohc=ZtA9P5LLXfIQ7kNvwHiuWbx&_nc_oc=AdoBLc1pkSUWDXrlziO6w4rKHqkZOzgEBQ6PHMkIb67pKhKUas_pjE9x-n8k0HJBRXo&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=ggHj7LZBt7Z1y2sg5uABhw&_nc_ss=7b2a8&oh=00_AQOtRfuavCidj8HqyDLVEbAb79OCEDt50NlhmePvhuOVsQ&oe=6AD6E578
 - id: '1107482105563673'
   title: Norco Road Bike Monterey Large size
   url: https://www.facebook.com/marketplace/item/1107482105563673/
@@ -2004,10 +1359,10 @@ listings:
   price: 175
   location: North Vancouver, BC
   source: Facebook Marketplace
-  date_posted: '2026-08-30'
-  date_posted_display: 6 weeks ago
+  date_posted: '2026-08-27'
+  date_posted_display: 7 weeks ago
   date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
+  date_verified: '2026-10-15T16:58:02.371Z'
   posting_text: |-
     Decently maintained norco Monterey circa 1980 made in japan. Comes with fender.
 
@@ -2016,7 +1371,7 @@ listings:
   frame_size: null
   seller_notes: null
   availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/784003226_1619757496439852_4477550646976155479_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=92e707&_nc_ohc=Bce1myYAe-MQ7kNvwF5O19I&_nc_oc=AdomOKeOdc2Zvnj6wOd9ENcYYLLaMSLYbYlQlCrGA0QgF4bF7HS7v0xBSWiydYCtAAw&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=ED_nxMzegaCvEGUulVt6eA&_nc_ss=7b2a8&oh=00_AQP1ca9PgDXxCDKefmQuBX40wwpvKfPpHsLl4phwqkZ8vQ&oe=6AD0B8B2
+  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/784003226_1619757496439852_4477550646976155479_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=92e707&_nc_ohc=fMf5rsJmNG8Q7kNvwH90Whx&_nc_oc=AdryXOAGaf4HyzP4uS3vru281XTTjo1iUGB5ZZMFVglFJ3iE3XwYLpQ2tcneMj8TTBM&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=8lDP1NV2RRPkl9X8XE4R8A&_nc_ss=7b2a8&oh=00_AQOkc9evt2kC638VUOl3k2IQhWBOeD0tiu0GgnFcaKiijg&oe=6AD6DFB2
 - id: '1858375585339810'
   title: Mountain Bike - DIADORA Novara Pro
   url: https://www.facebook.com/marketplace/item/1858375585339810/
@@ -2026,10 +1381,10 @@ listings:
   price: 150
   location: Surrey, BC
   source: Facebook Marketplace
-  date_posted: '2026-08-30'
-  date_posted_display: 6 weeks ago
+  date_posted: '2026-08-27'
+  date_posted_display: 7 weeks ago
   date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
+  date_verified: '2026-10-15T16:58:02.371Z'
   posting_text: |-
     DIADORA Novara Pro Mountain Bike
 
@@ -2047,7 +1402,7 @@ listings:
   frame_size: null
   seller_notes: null
   availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/787405871_1806980780485704_4191373157532487424_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=92e707&_nc_ohc=xtsqVjU9FsEQ7kNvwFj74BA&_nc_oc=AdqAWADJ2bt5xnFvhtQ2wQsC75eZvBDHIk7QGEOcK1pmyDiAbcoAVIqCP9ePoyxaHJk&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=sJGO1L9Jyt985SWhiybBhA&_nc_ss=7b2a8&oh=00_AQMIBfCbD1Lu2oWz4WnvKVVOCONdL7BSuztXNNtxaIY0jw&oe=6AD0B493
+  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/787405871_1806980780485704_4191373157532487424_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=92e707&_nc_ohc=Q4n8PGxYaxkQ7kNvwGYEhcg&_nc_oc=Adp3s08HHVSDiqGkpHS5yaajso-NIs0_J2jzZg0VlUgJS8KMnri0dxLWkaRhb3ArXM0&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=Wt4XmzI3ktVyLfhJsw_Bog&_nc_ss=7b2a8&oh=00_AQNhZakWIt7pRkbvzOokWd4cSkFIv0-N69WnoXsj1tssOA&oe=6AD6DB93
 - id: '38368829989397089'
   title: Diadora Orbita Mountain Bike
   url: https://www.facebook.com/marketplace/item/38368829989397089/
@@ -2057,17 +1412,17 @@ listings:
   price: 160
   location: Vancouver, BC
   source: Facebook Marketplace
-  date_posted: '2026-08-30'
-  date_posted_display: 6 weeks ago
+  date_posted: '2026-08-27'
+  date_posted_display: 7 weeks ago
   date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
+  date_verified: '2026-10-15T16:58:02.371Z'
   posting_text: |-
     Black Diadora Orbita mountain bike with a lightweight aluminum frame. This bicycle has 27.5-inch wheels and a front suspension fork. It is equipped with a Shimano drivetrain and V-brakes. The bike has flat pedals and a black Diadora saddle.
   seller_condition: used - like new
   frame_size: null
   seller_notes: null
   availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/784292098_1368445014887586_6167430143996117471_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=100&ccb=1-7&_nc_sid=92e707&_nc_ohc=w2iH9UIDrfgQ7kNvwGUDB67&_nc_oc=AdqeAZYhUBYYly4HtH9bq0eHRCiTZG_2JwmshVMcebVxJG4T5X9ip-AgGZZvyXiLAAU&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=oYiw9VbfEJqKH-pIHTR1Pg&_nc_ss=7b2a8&oh=00_AQNX9QFl-dGJRuy0J3kX3w6dvNYBGXvBRfNqlG4LqX0NfQ&oe=6AD0C450
+  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/784292098_1368445014887586_6167430143996117471_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=100&ccb=1-7&_nc_sid=92e707&_nc_ohc=hra4FhxeSeAQ7kNvwELhn1M&_nc_oc=Adq-R8uxxs9FIWfeosO2LtJAhwwJzLVh66fIlQXjQ0_NFQtATnUiWrh1Ep-IUaKdlck&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=Sk9zS_HC12N1Drvn33PcdQ&_nc_ss=7b2a8&oh=00_AQOPZc3pZbLCMmqwWeS9dLyh9zL8MDU6gWKB3mongLrzPw&oe=6AD6EB50
 - id: '4604658159756248'
   title: CCM Presto road bike
   url: https://www.facebook.com/marketplace/item/4604658159756248/
@@ -2077,10 +1432,10 @@ listings:
   price: 200
   location: Richmond, BC
   source: Facebook Marketplace
-  date_posted: '2026-08-23'
-  date_posted_display: 7 weeks ago
+  date_posted: '2026-08-20'
+  date_posted_display: 8 weeks ago
   date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
+  date_verified: '2026-10-15T16:58:02.371Z'
   posting_text: |-
     CCM Presto road bike in good overall condition.
     700C wheels, drop handlebars, Shimano gears.
@@ -2094,7 +1449,7 @@ listings:
   frame_size: null
   seller_notes: null
   availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/775053848_831407693393283_3360529541435908265_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=92e707&_nc_ohc=-tlCV4gwAs8Q7kNvwF4EA1e&_nc_oc=AdonU4xlNs_uTaisquOw4DAgQXTE58JKcg4qfvghZdHJbg7TYHLNV6lu_8VQdKFTtFo&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=eO2guL1ObwikDTVVQWZ2-w&_nc_ss=7b2a8&oh=00_AQM-5zCKmuNxoxhXbnlQMg4iao8DJPB5CMoKCeJ43aaHew&oe=6AD0A41B
+  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/775053848_831407693393283_3360529541435908265_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=92e707&_nc_ohc=3WgI_pRCh-YQ7kNvwERHqU9&_nc_oc=Adr_yryyFm8EoGjtNytDtMAhhqsZk-4qSbyL4_eVESLGB2_q8Jpdtt4ybkZNM8bKqJU&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=odydQr3lVOY2_F37IVeutQ&_nc_ss=7b2a8&oh=00_AQNq08YdwmbY1Tntf1RAqzRWIG0iEwM9ulJt6MmE73BLng&oe=6AD6CB1B
 - id: '1047609931219251'
   title: Road Bike
   url: https://www.facebook.com/marketplace/item/1047609931219251/
@@ -2104,10 +1459,10 @@ listings:
   price: 200
   location: Vancouver, BC
   source: Facebook Marketplace
-  date_posted: '2026-08-23'
-  date_posted_display: 7 weeks ago
+  date_posted: '2026-08-20'
+  date_posted_display: 8 weeks ago
   date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
+  date_verified: '2026-10-15T16:58:02.371Z'
   posting_text: |-
     Nishiki Road Bike (54cm frame)
   seller_condition: used - good
@@ -2124,10 +1479,10 @@ listings:
   price: 80
   location: Coquitlam, BC
   source: Facebook Marketplace
-  date_posted: '2026-08-23'
-  date_posted_display: 7 weeks ago
+  date_posted: '2026-08-20'
+  date_posted_display: 8 weeks ago
   date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
+  date_verified: '2026-10-15T16:58:02.371Z'
   posting_text: |-
     Lightweight mountain bike with a black 6061 aluminum frame and green accents. It has a 21-speed Shimano RevoShift drivetrain and a Zoom front suspension fork. The bike is equipped with linear-pull brakes, a kickstand, and 26-inch tires
 
@@ -2137,7 +1492,7 @@ listings:
   frame_size: null
   seller_notes: null
   availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/774720141_1045150438256927_114343810352342996_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=92e707&_nc_ohc=pfuGkxzwXJEQ7kNvwF1U5Ub&_nc_oc=AdqnAiflh2OPisIxxLXIYqjNG2GAOTPBkDxNpn4FkPkZlfK_F0bp01HPnWZEVnER32M&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=YPfXGXuHi0qyjmUE8iWQQw&_nc_ss=7b2a8&oh=00_AQNybybgzZNW7bdjNgF9BJxJVmBMdFuWOJP2oJPMqGNUOw&oe=6AD0B1E3
+  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/774720141_1045150438256927_114343810352342996_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=92e707&_nc_ohc=ynOh9LRSlUIQ7kNvwFhdivv&_nc_oc=AdrOxsD-KqrVnyj4mLLD5prG2Um3E09fp0K89NZaJaXq22QvqNA9rUnrF0MpjzMFvH8&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=lraWPT6tNWjPs8Ln8w5kJg&_nc_ss=7b2a8&oh=00_AQNXdhrcrPGubG20KcjL9CMCE7LIACKGmGWCM1FyIowahQ&oe=6AD6D8E3
 - id: '1359666159661661'
   title: Nakamura Hybrid Bike
   url: https://www.facebook.com/marketplace/item/1359666159661661/
@@ -2147,10 +1502,10 @@ listings:
   price: 130
   location: Burnaby, BC
   source: Facebook Marketplace
-  date_posted: '2026-08-16'
-  date_posted_display: 8 weeks ago
+  date_posted: '2026-08-13'
+  date_posted_display: 9 weeks ago
   date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
+  date_verified: '2026-10-15T16:58:02.371Z'
   posting_text: |-
     Versatile Nakamura Hybrid bike has a black frame with gold accents. It features a Shimano 21-speed drivetrain and front suspension forks. The bike is equipped with V-brakes, a padded saddle, and multi-surface tires.
 
@@ -2159,7 +1514,7 @@ listings:
   frame_size: null
   seller_notes: null
   availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/772943818_1597222255183851_6237579644960270020_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=92e707&_nc_ohc=Ynm3VLdTiZQQ7kNvwHY48RN&_nc_oc=AdrrK6OF4Z_h6k-W18QvGn5U3nUpu6Sn0X9uVkpqo8IOoSAPssh8jlVUFx2bpNLhUA0&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=dtKQKem-B4h-71FMwwpjuw&_nc_ss=7b2a8&oh=00_AQP9Z8SGTrjMks5YqeLnUwpXerlMKzwqHxcZLPE9fP6S3w&oe=6AD09B82
+  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/772943818_1597222255183851_6237579644960270020_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=92e707&_nc_ohc=BZIOLKK13HQQ7kNvwEFlqsk&_nc_oc=Adonk_TcyrgcGt33HGuKS4Vmk3dBpM_j9tiGQxJAMktBWbi4D0_0b06U11XZ98gYJuA&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=Uyv5-6IkpAh6tpvHjXu67Q&_nc_ss=7b2a8&oh=00_AQO2q4l_wyuRfNbvtYu00X-0EArdBAdgtpuYQsqMeUI04w&oe=6AD6C282
 - id: '1295419939124745'
   title: Bike
   url: https://www.facebook.com/marketplace/item/1295419939124745/
@@ -2169,17 +1524,17 @@ listings:
   price: 85
   location: Vancouver, BC
   source: Facebook Marketplace
-  date_posted: '2026-07-26'
-  date_posted_display: 11 weeks ago
+  date_posted: '2026-07-23'
+  date_posted_display: 12 weeks ago
   date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
+  date_verified: '2026-10-15T16:58:02.371Z'
   posting_text: |-
     Adult size - Specialised brand bike, great condition. Comes with new bike lock
   seller_condition: used - good
   frame_size: null
   seller_notes: null
   availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/752807531_3296876003853875_7030037541236407401_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=92e707&_nc_ohc=6-01VtFcfY8Q7kNvwHkLZYw&_nc_oc=Ado4kKsznsbDy-ErJP_kBNc2K6KrJ41ey-tjJwji7c30ktx3v6R69Yo0-o8qzeNx16Y&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=jNXi6prf_XmE5Uvj0kKTWg&_nc_ss=7b2a8&oh=00_AQPogDEzXzPR_OheqIAiXP77EIFTsvbJi15BHuA9tbDhIQ&oe=6AD0C20E
+  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/752807531_3296876003853875_7030037541236407401_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=92e707&_nc_ohc=ZpEONmdD48sQ7kNvwGLnVEi&_nc_oc=AdqgLgaTWjkDAcqePyllMmnbg-F_iMb8yrQ-3I3Bvdsy5KkiPzG0f0KUuC0N86BIA90&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=kBY9ysMnEhuiB5MplzGNGQ&_nc_ss=7b2a8&oh=00_AQPAHxexkwtSvhzXiXaf_HyQAP-pTaeM59DIhqnv5UkPpQ&oe=6AD6E90E
 - id: '2220667052045946'
   title: Bicycle
   url: https://www.facebook.com/marketplace/item/2220667052045946/
@@ -2189,10 +1544,10 @@ listings:
   price: 125
   location: Surrey, BC
   source: Facebook Marketplace
-  date_posted: '2026-07-12'
+  date_posted: '2026-07-16'
   date_posted_display: 13 weeks ago
   date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
+  date_verified: '2026-10-15T16:58:02.371Z'
   posting_text: |-
     Hyper, bear mountain bicycle
 
@@ -2203,7 +1558,7 @@ listings:
   frame_size: null
   seller_notes: null
   availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/745356580_1046810194964362_4411407851150845748_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=107&ccb=1-7&_nc_sid=92e707&_nc_ohc=VyaN67_b8KEQ7kNvwES2oC3&_nc_oc=Adq5Fqnw0OdzeWUiHeewJD-qxxRh0ba-QLobzCEcApv3iEPesGzAn7WI1Kp0fGyPy9M&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=AdxCZ1xWGprUAG4c09koJg&_nc_ss=7b2a8&oh=00_AQPOkgD0NXnOLkFRAs4cqzjWNh8DKjpmtidxBZSn1PPL6g&oe=6AD09264
+  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/745356580_1046810194964362_4411407851150845748_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=107&ccb=1-7&_nc_sid=92e707&_nc_ohc=hYhjcWMZVbMQ7kNvwGvCENG&_nc_oc=AdpDSP68MQBooLzDlDKIawvxGqrQWPt7_kVkB6mO5sSZTXD9EA7t4XGERP6e-UQC_6E&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=zA7HrC13CXHxengo3MShRQ&_nc_ss=7b2a8&oh=00_AQM1F7mXZe6z73y22zy8dBeFDv6pdxaj35CJOo1VmEOQqQ&oe=6AD6F1A4
 - id: '2156374434903902'
   title: Norco Gravel Bike
   url: https://www.facebook.com/marketplace/item/2156374434903902/
@@ -2213,10 +1568,10 @@ listings:
   price: 200
   location: Vancouver, BC
   source: Facebook Marketplace
-  date_posted: '2026-05-24'
-  date_posted_display: 20 weeks ago
+  date_posted: '2026-05-21'
+  date_posted_display: 21 weeks ago
   date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
+  date_verified: '2026-10-15T16:58:02.371Z'
   posting_text: |-
     I’m selling my size 17" (M) Norco Charger, $250 obo. It’s been used mainly as a commuter/road bike with the front forks locked, but the suspension can be engaged for off road & rockier terrain.
     I bought it for 350 in summer 2024- The rear cassette and chain, rear brake pads, pedals, and hydraulic disk brakes were all replaced right before I bought it. It’s a little squeaky and clicks a little at a low gear (likely derailleur alignment), but overall an awesome bike!! I’m only selling because I prefer a larger frame for everyday riding.
@@ -2224,7 +1579,7 @@ listings:
   frame_size: null
   seller_notes: null
   availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/700430872_1328152622833643_4200534855455590237_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=92e707&_nc_ohc=_wcyA1azxBoQ7kNvwEHEpUO&_nc_oc=Ado-I8fM_nxSACucw3nvRT8v1JWX5poAQI_EREUJpMP7NELia_MgAM0ulS3T_wZYfac&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=JkaJfXQt90gc8mr8bwc3YA&_nc_ss=7b2a8&oh=00_AQPQXFl9ksG225700nJZjctzBon9DM_1qXdpStcDioNKkg&oe=6AD0BF20
+  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/700430872_1328152622833643_4200534855455590237_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=92e707&_nc_ohc=lp15K27PI1EQ7kNvwEJilrY&_nc_oc=AdqJyC7ZRPgbBIjNtohrFePSR0ua1p8VbE013hNir6XJ_7-hubtYvy4v4Htsh9YrRgQ&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=HAMuir6qXJAhZwHaeHlxdw&_nc_ss=7b2a8&oh=00_AQNBnFFz582L-XuvQqkzP72guefgZUwO5Wf1ugwbpD4COw&oe=6AD6E620
 - id: '1974681679814056'
   title: DaVinci Hybrid Road Bike
   url: https://www.facebook.com/marketplace/item/1974681679814056/
@@ -2234,10 +1589,10 @@ listings:
   price: 200
   location: Vancouver, BC
   source: Facebook Marketplace
-  date_posted: '2026-05-03'
+  date_posted: '2026-05-07'
   date_posted_display: 23 weeks ago
   date_posted_is_estimate: true
-  date_verified: '2026-10-11T00:30:20.112Z'
+  date_verified: '2026-10-15T16:58:02.372Z'
   posting_text: |-
     Selling a solid Devinci hybrid bike, perfect for commuting, cruising around the city, or light fitness rides.
 
@@ -2261,7 +1616,7 @@ listings:
   frame_size: null
   seller_notes: null
   availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/686520430_26716963861298601_5990646131334161804_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=92e707&_nc_ohc=18qjjU5yGyQQ7kNvwHxDPXz&_nc_oc=AdpLtDidXV2akViW9DhmtGGMf02X5RI8QBzRW3lv1easWHOkCM5_PUFXpZZo2yYlnTE&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=OpoESG4Cq3aKLVNMLMK34A&_nc_ss=7b2a8&oh=00_AQPAEPVOVHoKBCI3dEjl4tygjdl9ZxgPh4dY1Kuwn0ATAw&oe=6AD0B8E7
+  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/686520430_26716963861298601_5990646131334161804_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=92e707&_nc_ohc=0Nd2l8f31XUQ7kNvwGMLrUL&_nc_oc=Adq8TCZkStsnPh4QeX0l5V7f778WPARzISBtKkZ_A2AquGwgaZQLqDcCtfmH5D_yYU4&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=RzXSdRMWn_JE04hGtrh6kg&_nc_ss=7b2a8&oh=00_AQN-K_IM5bEdmm6WOEK8wTVDnAgLTpwGjjlJy7BkxqIbew&oe=6AD6DFE7
 - id: '1070783025517854'
   title: 20” Norco hybrid cross series commuter bike
   url: https://www.facebook.com/marketplace/item/1070783025517854/
@@ -2274,7 +1629,7 @@ listings:
   date_posted: null
   date_posted_display: null
   date_posted_is_estimate: false
-  date_verified: '2026-10-11T00:30:20.112Z'
+  date_verified: '2026-10-15T16:58:02.372Z'
   posting_text: |-
     Need the space .
     Slashed down to $150 firm.
@@ -2287,4 +1642,4 @@ listings:
   frame_size: null
   seller_notes: null
   availability: unverified
-  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/750277227_1293207782660831_1514022435233610523_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=92e707&_nc_ohc=U9I0XsmewOIQ7kNvwE_s9AE&_nc_oc=AdpmxOcK0VYsEE7Ly_ugo5lggilV8BAunxsZlRV5R0_TRdEUHQLQDpw5iXfCv7op8yM&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=RbgbwC6iI3k08YbCO1ClJg&_nc_ss=7b2a8&oh=00_AQNTHIA8pgIbaH1ZNrAdiv6Hu1_-9jIhAKn1TQ0gzVYLhA&oe=6AD0A040
+  image_url: https://scontent-sea5-1.xx.fbcdn.net/v/t39.84726-6/750277227_1293207782660831_1514022435233610523_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=92e707&_nc_ohc=3Ewh49EvuVYQ7kNvwHe7Vhu&_nc_oc=AdrFS-JSd63O9-tujCK_wYeF7VUS3xLFJmOUEAtniZHIBPEiJKfj6aGsnbaI1yrKYew&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=a2X1bHCAagu7utF-sRZ2iA&_nc_ss=7b2a8&oh=00_AQOE_L_N_Mu32WYOug61A73X4SQmPnNLQrrkmiO-vPOlYg&oe=6AD6C740
